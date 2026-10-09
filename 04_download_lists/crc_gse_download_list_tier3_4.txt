@@ -1,0 +1,156 @@
+# ============================================================
+# 结直肠癌 (CRC) GEO 跨系列冗余检测 — Tier3–4 全扫描下载清单
+# 配套 geo-redundancy-sop 技能 / analyze_tier.py 引擎
+# 生成日期: 2026-10-08
+# ------------------------------------------------------------
+# 已消耗(勿重复下载): Tier1=12, Tier2=8 → 共 20 个
+#   GSE110224 GSE115261 GSE14297 GSE17536 GSE17538 GSE18392
+#   GSE20916 GSE33113 GSE35982 GSE37364 GSE37892 GSE38832
+#   GSE39582 GSE41258 GSE41568 GSE41655 GSE41657 GSE44076
+#   GSE49355 GSE68468
+# 本清单新增: Tier3 = 42 个, Tier4 = 12 个(精选) + 程序化扩展到 200+
+# ------------------------------------------------------------
+# 平台可比性速查:
+#   GPL570 (HG-U133_Plus_2, ~54675 探针) 与 GPL96 (HG-U133A, ~22283)
+#     → 探针级直接 Pearson，引擎最强项；两平台有 ~22268 共同探针。
+#   GPL3921 (HT_HG-U133A) / GPL4133 → 同 U133A 家族，可桥接 GPL96。
+#   GPL15207 (PrimeView) / GPL6480 (Agilent) / GPL10558 / GPL6947 (Illumina)
+#     → 需先聚合到 gene symbol（转换脚本已支持跨平台映射，但属"弱可比"）。
+#   RNA-seq (GPL11154 / NovaSeq / NextSeq 等) → 系列矩阵常只含 SRA 链接，
+#     无现成表达矩阵；需另走"计数矩阵"入流路径(引擎 gene 层待补)，
+#     故 RNA-seq 仅作方法演示组，不计入同一 Pearson 池。
+# ============================================================
+
+
+# ====================== Tier 3（比率估计档，~50–100）======================
+# 目标：把同平台(GPL570/GPL96)同质池做大，最大化"换号重投"命中概率。
+
+# ---- Tier3-A：GPL570 同质池（直接探针级 Pearson；全部文献已验证真实 CRC/COAD）----
+GSE32323    # GPL570 | 17 瘤/17 正常 (CRC diagnostic signature 对照集)
+GSE22598    # GPL570 | 17 瘤/17 正常
+GSE41328    # GPL570 | 10/10 配对 (ferroptosis 文献)
+GSE4107     # GPL570 | 10/12
+GSE4183     # GPL570 | 8 瘤/15 正常
+GSE18105    # GPL570 | 17 瘤/94 正常
+GSE12251    # GPL570 | 23 样本
+GSE13367    # GPL570 | 16 样本
+GSE9452     # GPL570 | 8 样本
+GSE16879    # GPL570 | 6 瘤/61 正常
+GSE35144    # GPL570 | 27 样本 (肝/肺转移文献)
+GSE35896    # GPL570 | 62 样本 (KRAS-MT CRC, Schlicker)
+GSE9348     # GPL570 | 12 正常/70 瘤
+GSE23878    # GPL570 | 24/35
+GSE47908    # GPL570 | 15/39
+GSE36807    # GPL570 | 7/28
+GSE27854    # GPL570 | 115 样本 (大盘队列)
+GSE22619    # GPL570 | 10/10
+GSE21510    # GPL570 | 25/123
+GSE14580    # GPL570 | 6/24
+GSE8671     # GPL570 | 32/32 (早期 CRC 标志物集)
+GSE9254     # GPL570 | 19 样本
+GSE10714    # GPL570 | 7 瘤/3 正常/5 腺瘤 (adenoma→carcinoma)
+GSE13471    # GPL570 | 4/4
+GSE15960    # GPL570 | 6/6
+GSE12945    # GPL570 | 62 样本 (生存分析集, France)
+GSE29621    # GPL570 | 65 样本 (生存分析集, France)
+GSE39084    # GPL570 | 70 样本 (Kirzin/Toulouse CRC)
+
+# ---- Tier3-B：GPL96 同质池（与已知阳性对照 GSE41258/GSE68468 同平台）----
+GSE24514    # GPL96  | 34 瘤/15 正常
+GSE110223   # GPL96  | CRC 瘤/正常 (ferroptosis 文献)
+GSE110225   # GPL96  | CRC 瘤/正常 (ferroptosis 文献)
+
+# ---- Tier3-C：其他芯片平台（需聚合到 gene symbol；"弱可比"，用于跨平台方法验证）----
+GSE44861    # GPL3921 (HT_HG-U133A, ~22k) | 111/111  (U133A 家族，可桥接 GPL96)
+GSE113513   # GPL15207 (PrimeView)        | 14/14
+GSE50114    # GPL6480 (Agilent 4x44K)     | 9 瘤/37 腺瘤/9 正常
+GSE50115    # GPL6480 (Agilent 4x44K)     | 与 GSE50114 合并的腺瘤队列
+GSE37178    # GPL6947 (Illumina)          | 84 样本
+GSE48634    # GPL10558 (Illumina)         | 69/102
+
+# ---- Tier3-D：bulk RNA-seq 起始组（方法演示；需计数矩阵入流，不进 Pearson 池）----
+GSE235919   # RNA-seq (ICB mCRC, 34 例)              | 验证 RNA-seq 时代跨 GSE 重复空白点
+GSE156451   # RNA-seq (NovaSeq, 72 对=144 样本)       | CRC enhancer landscape
+GSE142279   # RNA-seq (10 配对 正常/瘤)               | 亚洲 CRC 队列
+GSE158559   # RNA-seq (18 配对 正常/原发/肝转移)       | 转移验证
+GSE95132    # RNA-seq (5 正常隐窝/10 NAT/10 瘤)        | NAT 对照集
+
+
+# ====================== Tier 4（领域级估计档，200+）======================
+# 策略 A：精选真实系列（文献已验证，补全平台/技术覆盖）
+# ---- Tier4-A：补充分子图谱 / 单细胞验证系列 ----
+GSE90627    # 芯片 (直肠瘤序列活检, 32 例 4 位点)       | 直肠专属队列
+GSE132465   # scRNA-seq (18 原发/8 正常黏膜)
+GSE214695   # scRNA-seq (6 健康)
+GSE231993   # scRNA-seq (4 健康对照)
+GSE161277   # scRNA-seq (13 样本)
+GSE166555   # scRNA-seq (10x, 人结肠癌)
+GSE17537    # GPL570 (肺/肝转移, 候选补充)
+GSE20842    # GPL4133 (HT 平台, 跨平台桥接)
+GSE83889    # GPL10558 (Illumina)
+GSE87211    # GPL13497
+GSE106582   # GPL13667 (Affy U219, 同 GSE44076 平台)
+GSE50760    # RNA-seq (54 样本, 18 正常/36 瘤)
+
+# ---- Tier4-B：程序化扩展到 200+（推荐主路径，避免手抄漏号/错号）----
+# 用 NCBI E-utilities 直接拉"结直肠癌"全部 GEO DataSets，再按平台过滤。
+# 下列 Python 片段输出可直接喂给下载器（见文件末尾 fetch 配方）：
+#
+#   import urllib.request, urllib.parse, json, re
+#   term = '("colorectal cancer" OR "colon adenocarcinoma" OR "colorectal carcinoma")[Title]'
+#   # 1) esearch 取 GSE 的 gds id 列表
+#   q = urllib.parse.urlencode({"db":"gds","term":term,"retmax":20000})
+#   ids = json.loads(urllib.request.urlopen(
+#        "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?"+q).read())["esearchresult"]["idlist"]
+#   # 2) efetch 取每条的 accession + platform，过滤 GPL570/GPL96/GPL3921 等芯片
+#   for gid in ids:
+#       doc = urllib.request.urlopen(
+#         f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=gds&id={gid}&retmode=xml"
+#       ).read().decode()
+#       acc = re.search(r"<Accession>([GSE\d]+)</Accession>", doc)
+#       plat= re.search(r"<Platform>([^<]+)</Platform>", doc)
+#       if acc and plat and ("U133" in plat.group(1) or "PrimeView" in plat.group(1)):
+#           print(acc.group(1), plat.group(1))
+#
+# 经验上限：仅 GPL570+GPL96 两平台的 CRC/COAD 系列在 GEO 中就 ≥ 200 个，
+# 足以支撑"领域级冗余率"估计。RNA-seq 系列另按 GPL11154/NovaSeq/NextSeq
+# 过滤，单独成组（计数矩阵入流）。
+
+
+# ============================================================
+# 下载配方（在"可访问 GEO"的环境里运行）
+# ------------------------------------------------------------
+# ★ 推荐：用配套脚本（自动定位目录桶/续传/并发/清单，已修正 bucket 规则）
+#   python download_tier3_4.py                         # 全下到 E:/CRC_GEO_2026T34
+#   python download_tier3_4.py --only-tier 3           # 只下 Tier3
+#   python download_tier3_4.py --dry-run               # 先离线看计划 URL
+#   python download_tier3_4.py --out-root E:/CRC_GEO_2026T34 --workers 3
+#
+# GEO FTP 目录规则（关键，已对 4/5/6 位 accession 实测验证）：
+#   矩阵直链 = https://ftp.ncbi.nlm.nih.gov/geo/series/<BUCKET>/<GSE>/matrix/<GSE>_series_matrix.txt.gz
+#   <BUCKET> = "GSE" + (GSE 数字去掉最后 3 位) + "nnn"
+#       4 位: GSE4107   -> GSE4nnn
+#       5 位: GSE32323  -> GSE32nnn ;  GSE24514 -> GSE24nnn
+#       6 位: GSE156451 -> GSE156nnn ; GSE110223 -> GSE110nnn
+#   例: https://ftp.ncbi.nlm.nih.gov/geo/series/GSE32nnn/GSE32323/matrix/GSE32323_series_matrix.txt.gz
+#
+# 纯 wget 兜底（若不想用 Python 脚本）：
+#   grep -oE '^\s*GSE[0-9]+' crc_gse_download_list_tier3_4.txt | tr -d ' ' | sort -u | while read g; do
+#     d=${g#GSE}; p=${d%???}                       # 去最后 3 位 -> 桶前缀
+#     url="https://ftp.ncbi.nlm.nih.gov/geo/series/GSE${p}nnn/${g}/matrix/${g}_series_matrix.txt.gz"
+#     wget -c -q "$url" -P ./raw_tier34/${g}/ && echo "OK $g" || echo "FAIL $g"
+#   done
+#   （任一 404 时，可改访问 NCBI 网页 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE<acc>
+#    的 "Series Matrix File(s)" 直链，或用 R: GEOquery::getGSE("<GSE>")）
+#
+# ★ 下载后转换 + 检测（复用已修复流水线）：
+#   python -m geo_matrix_to_sop --root E:/CRC_GEO_2026T34 --out E:/CRC_GEO_2026T34_sop
+#   python analyze_tier.py --indirs E:/CRC_GEO_2026T34_sop \
+#       [--indirs E:/CRC_GEO_2026_combined_sop] \
+#       --out E:/CRC_GEO_2026T34_dedup --name "Tier3+4" \
+#       [--pos1 GSE41258 --pos2 GSE68468]
+#
+# ⚠ RNA-seq / scRNA-seq 系列（行注释含 RNA/scRNA）：series_matrix 常只含 SRA 链接、
+#   无现成表达矩阵；脚本会自动尝试拉 *_RAW.tar，但"计数矩阵入流"需待引擎 gene 层补齐，
+#   故 RNA-seq 不计入同一 Pearson 池，仅作方法演示组。
+# ============================================================

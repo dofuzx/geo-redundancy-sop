@@ -1,0 +1,248 @@
+GSE	GPL	n_samples	pubmed	date	title
+GSE203024	GPL570	2845		2024/08/31	Gene Expression Data from Human Peripheral Blood
+GSE2109	GPL570	2158		2005/01/15	Expression Project for Oncology (expO)
+GSE48433	GPL570	823	24885658	2013/07/01	Microarray analysis of xenograft models in use at the Developmental Therapeutics Program of the National Cancer Institut
+GSE7307	GPL570	677		2007/04/09	Human body index - transcriptional profiling
+GSE78806	GPL570	661	26479923	2016/03/02	Similarity of PDXs between passages and lineages using Affymetrix mRNA expression data
+GSE57083	GPL570	627		2014/04/28	Expression data from AstraZeneca internal cell lines
+GSE50832	GPL570	598	25171249	2014/10/02	Gene Expression Profiling Reveals Epithelial Mesenchymal Transition (EMT) Genes Can Selectively Differentiate Eribulin S
+GSE186582	GPL570	489	35143619	2021/12/05	Expression data from intestinal mucosa of patients with Crohn disease
+GSE3526	GPL570	353	16572319	2006/03/30	Comparison of gene expression profiles across the normal human body
+GSE5364	GPL96	341	18636107	2008/07/23	A Precisely Regulated Gene Expression Cassette Potently Modulates Metastasis and Survival in Multiple Solid Cancers
+GSE14333	GPL570	290	19996206	2010/01/08	Expression data from 290 primary colorectal cancers
+GSE102079	GPL570	257	29454748,37782459	2018/01/28	FABP4 overexpressed in intratumoral hepatic stellate cells within hepatocellular carcinoma with metabolic risk factors (
+GSE161158	GPL570	250	34114372	2020/11/11	A SMAD4-modulated gene profile predicts disease-free survival in stage II and III colorectal cancer
+GSE152529	GPL570	237	34711913	2021/10/27	Pharmacogenomic characterization of the MDM2 inhibitor MI-773 reveals candidate tumours and predictive biomarkers
+GSE36701	GPL570	221	22684480	2012/07/13	Gene expression analysis of rectal mucosa in chronic irritable bowel syndrome (IBS) compared to healthy volunteers (HV)
+GSE112790	GPL570	198	30598371	2019/01/03	Comprehensive molecular characterization of liver cancer and inheritance of the phenotypic traits during tumor recurrenc
+GSE101896	GPL570	190		2017/08/31	Transcriptome analysis by expression microarrays  of colorectal cancer derived from the Cancer Institute Hospital of Jap
+GSE14095	GPL570	189	21680303	2011/08/26	Gene expression signature and the prediction of liver metastasis in colorectal cancer by DNA microarray
+GSE50831	GPL570	189	25171249	2014/10/02	Ovarian cancer cell lines treated with eribulin and paclitaxel
+GSE71571	GPL570	176	25927723,26697360	2015/07/30	Tissue-specific patterns of gene expression in the epithelium and stroma of normal colon in healthy individuals in an as
+GSE32474	GPL570	174	19584232,24940735,26048278	2011/09/29	Comparison between cell lines from 9 different cancer tissue (NCI-60) (Affymetrix U133 Plus 2.0)
+GSE13294	GPL570	155	19088021	2009/01/22	Expression data from primary colorectal cancers
+GSE71222	GPL570	152	26499327	2016/07/22	Prognostic significance of overexpression of Traf2- and Nck- interacting kinase (TNIK) in colorectal cancer [152 samples
+GSE43580	GPL570	150	23966112	2013/10/18	SBV - Gene Expression Profiles of Lung Cancer Tumors - Adenocarcinomas and Squamous Cell Carcinomas
+GSE236924	GPL570	132	37490914	2023/08/24	SIRPa agonist antibody treatment ameliorates experimental arthritis and colitis [array]
+GSE53091	GPL570	125	25009552,24691108,26484195	2013/12/23	Inference and validation of predictive gene networks from biomedical literature and gene expression data
+GSE64256	GPL570	125	26499327,26783118	2015/11/21	Prognostic significance of overexpression of Traf2- and Nck- interacting kinase (TNIK) in colorectal cancer [gene expres
+GSE72970	GPL570	124	28284171,28659146,30863148	2017/08/17	Molecular subtypes of metastatic colorectal cancer are predictive of patient response to chemo and targeted therapies
+GSE3629	GPL570	121	17255260	2007/02/28	Molecular Marker for predicting development of cancer in ulcerative colitis
+GSE46517	GPL96	121	20520718	2013/05/01	Human melanoma samples comparing nevi and primary and metastatic melanoma
+GSE164191	GPL570	121	34079596	2021/01/05	Blood based expression of colorectal cancer and healthy controls
+GSE23597	GPL570	113	21448149,31039157	2011/07/22	Expression data from colonic biopsy samples of infliximab treated UC patients
+GSE33114	GPL570	108	22056143	2011/11/05	Methylation of Cancer Stem Cell-associated Wnt target genes predicts poor prognosis in colorectal cancer patients
+GSE5206	GPL570	105	17615082	2006/07/01	Large-scale deployment of embryonic gene programming in human and murine colon cancer: a new target for intervention.
+GSE3726	GPL96	104	16436632	2005/12/06	Prognostic gene signatures can be measured with samples stored in RNAlater
+GSE39923	GPL570	101		2017/02/16	The COLCATS study: Identification of an anti-apoptotic druggable target signature for the treatment of colorectal cancer
+GSE18549	GPL570	96		2016/02/13	Expression Signatures Identify Origin of Primary and Therapeutic Strategies for Patients with Advanced Solid Tumors
+GSE131027	GPL570	92	31263571	2019/05/11	High frequency of pathogenic germline variants in genes associated with homologous recombination repair in patients with
+GSE143985	GPL570	91	32328985	2020/04/24	Clinical significance of gene signature generated from the grade of tumor budding in colorectal cancer
+GSE26906	GPL570	90	22496922	2011/01/28	APC colon stage II
+GSE4459	GPL570	89	19934913	2010/08/31	Gene expression signature and the prediction of lymph node metastases
+GSE4554	GPL570	84	17047040	2006/10/17	Gene expression signature of colorectal cancer with microsatellite instability.
+GSE161533	GPL570	84		2020/11/17	Expression data from esophageal squamous cell carcinoma patients
+GSE212849	GPL570	84	36170836	2022/09/08	Prediction of Golimumab Response in the PROgECT Phase 2a Open-Label Trial of Patients With Ulcerative Colitis
+GSE28702	GPL570	83	22095227	2011/11/21	CRC samples for FOLFOX therapy prediction
+GSE18497	GPL570	82	20072147	2010/03/10	Diagnosis-relapse in ALL
+GSE64857	GPL570	81	25645394	2015/02/23	Gene expression data from patients with colorectal cancer
+GSE35603	GPL570	78	22900142	2012/08/17	Network Biology of Tumor Stem-like Cells Identified a Regulatory Role of CBX5 in Lung Cancer
+GSE39144	GPL570	77		2023/05/09	Expression data of human induced pluripotent stem cells (hiPSCs), human embryonic stem cells (hESCs) and those different
+GSE170999	GPL570	76	33817986	2021/03/29	Gene expression data of locally advanced rectal cancer patients by KRAS status
+GSE13067	GPL570	74	19088021	2009/01/08	Expression data from primary colorectal cancers
+GSE15395	GPL570	74	19755512	2009/03/26	HCT116 tumor cells treated with a CDK inhibitor
+GSE62932	GPL570	68	27176004	2015/10/27	Comparison of Nanostring nCounter data on FFPE colon cancer samples and Affymetrix microarray data on matched frozen tis
+GSE72968	GPL570	68	28284171,28659146,30863148	2017/08/17	Molecular subtypes of metastatic colorectal cancer are predictive of patient response to chemo and targeted therapies (p
+GSE119409	GPL570	66	33106387	2020/08/01	Expression data from rectal cancer
+GSE41445	GPL570	63		2012/10/10	Basal gene expression data of 21 cell lines (18 cancer and 3 non-tumorigenic)
+GSE63626	GPL570	63	26046848	2014/11/26	Global gene expression analysis of human fibroblasts from whole body
+GSE40367	GPL570	61	25552933,27569582	2015/01/22	Gene expression analysis of liver and colon cancer primary tumors and metastasis
+GSE5846	GPL96	60	17666531	2009/08/26	NCI-60 Cancer Cell Line
+GSE7208	GPL96	59	17638901	2007/04/21	Expression data from 59 human colon tumor tissue samples
+GSE75316	GPL570	59	27354468	2016/11/28	Expression data for 59 primary tumors from patients with colorectal cancer
+GSE92921	GPL570	59		2018/03/30	Prognostic Model for Stage II/III Colon Cancer Based on Gene Expression Subtypes and KRAS Mutation Status
+GSE77953	GPL96	58	27270421	2016/05/13	Global gene expression analysis of development and progression of colorectal carcinoma
+GSE72969	GPL570	56	28284171,28659146,30863148	2017/08/17	Molecular subtypes of metastatic colorectal cancer are predictive of patient response to chemo and targeted therapies (p
+GSE2719	GPL96	54	15994966,16603191	2005/07/01	Gene expression of human soft tissue sarcoma
+GSE69639	GPL96	54	27273097	2016/07/25	Transcriptional profiling of HT-29 cells stimulated with pairwise combinations of TNF, EGF, and insulin
+GSE18088	GPL570	53	21465190	2011/04/10	Correlation of molecular profiles and clinical outcome of stage UICC II colon cancer patients
+GSE112282	GPL570	48	29674704	2018/04/20	Gene expression changes induced by the BET inhibitor GSK525762 and/or the MEK inhibitor trametinib in cancer cell lines.
+GSE35452	GPL570	46		2013/01/29	Prediction of sensitivity of rectal cancer cells in response to preoperative chemoradiotherapy by DNA microarray analysi
+GSE37964	GPL570	44	22778133	2012/06/01	Expression data from three human DLD-1-derived colon cancer cell lines
+GSE30292	GPL570	43	22726358	2012/06/24	Establishment of objective criteria for selecting relevant intestinal cell-based models
+GSE38713	GPL570	43	23135761	2012/11/09	Expression data from intestinal mucosa of patients with UC
+GSE5816	GPL570	42	17194187	2007/01/03	A Genome-wide Screen for Hypermethylated Genes in Lung Cancer
+GSE13548	GPL570	42	19435925	2009/05/20	Expression data from human cancer cells treated with UPR modulators under ER stress conditions
+GSE16648	GPL570	42	19732436	2009/09/08	Networking of differentially expressed genes in human cancer cell lines resistant to methotrexate
+GSE124347	GPL570	42	35030298	2020/12/31	TP53 wild type cells are resistant to arsenic trioxide induced dynamic transcriptional changes
+GSE19860	GPL570	40		2013/01/03	Prediction of response to FOLFOX
+GSE16157	GPL570	38	20210797	2010/05/14	Mitochondria regulate the unfolded protein response leading to cancer cell survival under glucose deprivation conditions
+GSE4045	GPL96	37	16819509	2006/07/28	Classification of serrated colorectal tumors
+GSE31595	GPL570	37	22710688	2011/09/01	Gene Expression Profiles in Stage II and III Colon Cancer. Application of a 128-gene signature
+GSE52735	GPL570	37	25730906	2013/12/01	Gene signature predictive of response to chemotherapy in mCRC [array]
+GSE2361	GPL96	36	15950434	2005/04/03	Expression Proflies of Human Normal tissues
+GSE4526	GPL570	36	19016304	2010/08/31	Gene expression signature and the prediction of recurrence in stage III colorectal cancer by DNA microarray
+GSE6272	GPL96	36	17456737	2006/12/31	House keeping gene analysis - carcinoids and normal mucosa
+GSE39907	GPL570	36	23245942	2012/12/21	Role of TAZ as mediator of Wnt signaling
+GSE73906	GPL570	36	26719531	2016/03/03	Gene Expression Profiles of 4 CRC PDX models treated by RSPO3 antagonist.
+GSE294689	GPL570	36	40834066	2025/04/17	Oncogenic transcription factor targets
+GSE30540	GPL570	35	22547595	2012/07/04	A new classification of chromosome instability (CIN) phenotype, CIN-high and CIN-low
+GSE30803	GPL96	33	21912665	2011/07/21	Genome-wide mRNA profiling of adult human pancreatic beta and duct cells in comparison to other human tissues
+GSE34489	GPL570	33	22547595	2012/11/29	A new classification of chromosome instability (CIN) phynotype, CIN-high and CIN-low (validation dataset)
+GSE33846	GPL570	32	23147226	2012/11/27	Expression data of hepatocytes isolated from chimeric mouse livers repopulated with human hepatocytes and from normal hu
+GSE39577	GPL570	32	28729720	2017/07/24	Gene expression profiling of marginal zone B-cell lymphomas and variants
+GSE10715	GPL570	30	18843029	2009/01/29	Expression data from normal and CRC human peripheral blood samples
+GSE11812	GPL96	30	16217747,19461970	2008/06/24	Gene expression profile of cancer cell lines of different origin
+GSE13059	GPL570	30		2008/10/07	Expression data from short-time cultured primary cells derived from colorectal adenocarcinoma
+GSE24795	GPL570	30	21097699	2010/10/19	Gene Expression differences between replication error deficient and proficient colorectal cancers: the dominant role of 
+GSE69657	GPL570	30	23647300,26515599	2015/12/31	Identification of HOXB8 and K LK11 expression levels as potential biomarkers to predict the effects of FOLFOX4 chemother
+GSE74265	GPL570	30	28652445	2017/07/12	Gene expression signature and mitochondrial DNA copy number variation in ulcerative colitis patients
+GSE124069	GPL570	30		2019/12/31	BRD4 inhibitor JQ1 increase the sensitivity of arsenic trioxide in pancreatic cancer
+GSE15568	GPL96	29	24105369,21731057,34680949	2013/11/28	Gene expression in rectal epithelia of cystic fibrosis patients
+GSE49353	GPL570	29	24885658	2013/07/31	Evaluating cross-hybridization of murine cDNA to the Affymetrix Human Genome U133 Plus 2.0 chipset
+GSE85043	GPL570	29	28376187	2017/08/01	UMCU colon cancer - Biopsies Of Surgical Specimens (BOSS)
+GSE132542	GPL570	29	31238586	2019/06/12	Molecular comparison of imatinib-naïve and resistant gastrointestinal stromal tumors: differentially expressed microRNAs
+GSE23554	GPL96	28	21849418	2011/10/03	Ovarian Cancer Dataset
+GSE40928	GPL96	28		2013/10/01	The influence of folate supplementation on global gene expression in normal colonic mucosa of subjects with colorectal a
+GSE294953	GPL570	28	40782795	2025/04/23	Combined MEK and PARP inhibition enhances radiation response in rectal cancer
+GSE2742	GPL96	27	16474387	2006/02/08	Genomic Strategies Identify the Antitumor Agent Apratoxin A as a Potent Antagonist of FGF Signaling and STAT3 Activation
+GSE63252	GPL570	27	25475719	2015/04/01	Induction of ER stress in HCT116 colon cancer cells
+GSE199871	GPL570	27		2022/04/03	Identification of genes involved in RAS oncogenic activity in human colorectal cancer cell line HCT116
+GSE117548	GPL570	25	35668108	2019/03/03	Image-based profiling identifies compound induced phenotypes in patient-derived organoids
+GSE1474	GPL96	24	16012957	2004/06/16	Caco-2 and T84 cells stimulated with with flagellin, lymphotox beta or TNF alpha
+GSE1935	GPL96	24	16782753	2004/11/09	PGA_DogLung_regional_MV
+GSE2397	GPL570	24	16300372	2005/12/01	LJMJDW: Cellular responses to 4-hydroxy-2-nonenal
+GSE18674	GPL570	24	23147226	2012/11/12	Gene expression profile of Human tissues and cells
+GSE39395	GPL570	24	23153532	2013/01/17	Expression profiles of cell populations purified from human CRC (3 ways)
+GSE59196	GPL570	24	26637668	2014/07/09	Frequent Loss-of-Function Mutations in MLK4 Suppresses Signaling in the JNK-cJUN-p21/p15 Pathway to Promote Growth of Co
+GSE21654	GPL570	22	20885998	2010/05/05	Expression data from 22 Pancreatic Cancer Cell Lines
+GSE62080	GPL570	21	17327601,30863148	2014/10/06	Gene expression signature in advanced colorectal cancer patients select drugs and response for the use of leucovorin, fl
+GSE10867	GPL96	20	19711126,20186427	2010/03/20	Biomarkers of human gastro-intestinal tract regions
+GSE24547	GPL570	20	21914463	2011/09/20	Transcriptional pathway signatures for the Aurora inhibitor Danusertib
+GSE29008	GPL570	20	22225989	2012/01/06	Human colon epithelial cells treated with Clostridium difficile Toxins A and B
+GSE60697	GPL570	20	26267535	2014/08/26	Expression data from 20 human colon cancer
+GSE35566	GPL570	19	22349300	2012/02/07	Expression profiles of a panel of MSS and MSI colon cancer cell lines
+GSE10961	GPL570	18	18827815	2008/12/22	Gene expression profiling of liver metastases from colorectal cancer
+GSE11618	GPL570	18	19034449	2008/12/01	Stable XIAP knockdown in HCT116 colon cancer cells
+GSE11942	GPL570	18	18611269	2008/10/01	Topoisomerase II inhibition involves characteristic chromosomal expression patterns
+GSE15132	GPL570	18	20848206	2009/03/06	Riboflavin depletion impairs cell proliferation in intestinal cells: Identification of mechanisms and consequences
+GSE18232	GPL96	18	21170361	2010/10/09	RAS signaling in colon carcinoma: Target gene deregulation and growth control through Y-box-binding protein 1
+GSE23630	GPL570	18	22669626	2012/06/20	Modulation of gene expression in cultured human intestinal colon explants by probiotic bacteria
+GSE50040	GPL570	18	24301462	2013/08/23	Cross-talk between E. coli strains and a human colorectal adenocarcinoma-derived cell line
+GSE55624	GPL570	18	24747911	2014/03/06	Inhibiting tankyrases sensitizes KRAS mutant cancer cells to MEK inhibitors by FGFR2 feedback signaling
+GSE8565	GPL570	17	18598941	2008/04/29	Argyrin A is a p27 stabilizing drug with potent antiproliferative activity in vivo
+GSE11831	GPL570	17	16959948,19603079,19177426	2008/06/20	Transcription profiling of biopsies from the descending colon of control subjects
+GSE17189	GPL570	17	20216076	2010/03/01	Molecular Classification of AIDS-Related Lymphomas
+GSE17372	GPL570	17	20216076	2012/07/18	Molecular Classification of AIDS-Related Lymphomas [including third-party data]
+GSE23194	GPL570	17		2013/11/30	Mucosal biopsies from groups Normal (NOR) and patients who underwent curative large bowel resection for colorectal cance
+GSE80320	GPL570	17	28060746	2017/01/01	Mitochondrial deficiency impairs hypoxic induction of HIF-1 transcriptional activity and retards tumor growth
+GSE97985	GPL570	17	28522584	2018/05/01	Cooperative Targets of Combined mTOR/HDAC Inhibition Promote MYC Degradation
+GSE10021	GPL570	16	18465083	2008/04/01	mRNA expression profiles in human cell lines
+GSE39904	GPL570	16	23245942	2012/12/21	Role of TAZ as mediator of Wnt signaling (SW480)
+GSE99213	GPL570	16	29670091	2017/05/23	Expression data from SW1990, HCT-116 and Hep3B cancer cell lines
+GSE3113	GPL96	15	17017123	2005/08/13	KLF4 Time Course
+GSE18005	GPL96	15	20546605	2010/06/14	Human colorectal cancer cell lines treated with several inhibitors of PI3Kinase – AKT signaling pathway
+GSE28792	GPL570	15		2011/04/22	Polydextrose fermentation metabolite effect on Caco-2 colon cancer cells
+GSE35478	GPL570	15	22433494	2012/02/02	Characterization of colon cancer cells: a functional approach characterizing CD133 as a potential stem cell marker
+GSE97781	GPL570	15		2018/08/01	Chemotherapy recurrence colon cancer spheroid L145
+GSE19862	GPL570	14		2013/01/03	Prediction of response to bevacizumab
+GSE45270	GPL570	13	23584090	2013/04/14	AMC tubular and serrated adenomas
+GSE3926	GPL96	12	20010949	2010/04/15	Anthracycline treatment and resistance in four human cancer cell lines (HGU133A)
+GSE7161	GPL570	12	17875716	2008/02/01	Non-Classical Functions of Human Topoisomerase I: Genome-wide and Pharmacological Analyses
+GSE8896	GPL570	12		2016/02/05	Flagellin-mediated effects of Salmonella enteritidis on gene expression in intestinal epithelial cells
+GSE14103	GPL570	12	19331659	2009/03/31	Synchronized HTC116 cells: time course
+GSE18560	GPL570	12	21914722	2011/11/29	Deciphering the Wnt-dependent gene signature in colorectal cancer cells
+GSE26027	GPL570	12		2011/12/12	Early dynamic transcriptomic changes as predictors of preoperative radiotherapy efficacy in patients with rectal cancer:
+GSE33112	GPL570	12	22056143	2011/11/05	Gene expression in colon cancer stem cells (CSC) cultures identified by Wnt signaling levels
+GSE44097	GPL570	12	24467841	2013/12/31	β-catenin target genes in colorectal carcinoma cell lines with deregulated Wnt/β-catenin signaling
+GSE53059	GPL570	12	24505356	2014/02/20	Human Subperitoneal Fibroblasts and Cancer Cell Interaction Creates Microenvironment Enhancing Tumor Progression and Met
+GSE58058	GPL570	12	27047543	2016/12/31	Insights into carcinogenic mechanisms of colorectal carcinoma lacking β-catenin/TCF regulated transcription.
+GSE62253	GPL570	12	25997095	2015/11/13	Molecular mechanism of silver nanoparticles in human intestinal cell line Caco-2
+GSE64385	GPL570	12	27765066	2016/02/18	Immune and HCT116 RNA mixtures
+GSE67342	GPL570	12	26616174	2015/03/31	Expression data of LoVo cells treated by 10mM metformin for eigher 8 or 24h
+GSE70540	GPL570	12		2015/07/07	Transcribed ultraconserved region 339 promotes carcinogenesis by sequestering tumor suppressor microRNAs
+GSE70915	GPL570	12		2016/12/06	Inhibition of Akt Signaling in PIK3R2 Overexpressing Colon Cancer Stem Cells Reduces Tumor Growth due Apoptosis and Decr
+GSE116528	GPL570	12	33186476	2018/07/03	Consensus Molecular Subtype predicts differential vulnerability of colorectal cancer to the survivin suppressant YM155 I
+GSE11499	GPL570	11		2009/05/19	Expression data from Crohn's disease (CD) and Ulcerative colitis (UC) human peripheral blood samples
+GSE31255	GPL570	11	21892181	2011/11/22	Isolation and in vitro expansion of human colonic stem cells [Expression profile]
+GSE54483	GPL570	11	25375918	2014/09/10	Colorectal cancer classification based on gene expression is not associated with FOLFIRI response
+GSE8742	GPL570	10	17047072	2007/10/10	The Induction of Senescence-Like Growth Arrest by Diterpene Esters in Solid Tumor Cells
+GSE11940	GPL570	10	18611269	2008/10/01	Topoisomerase II inhibition involves characteristic chromosomal expression patterns: Doxorubicin study
+GSE27157	GPL570	10	22276141	2012/01/26	Prognostic Significance and Gene Expression Profiles of p53 Mutations in Microsatellite Stable Stage III Colorectal Aden
+GSE55810	GPL570	10		2014/03/12	Effect of co-culture with macrophages on two colon cancer cell lines.
+GSE70976	GPL570	10	27180883	2015/07/16	Expression data of LoVo cells treated by 10μM asymmetric dimethylarginine (ADMA) for 96h in serum starvation medium
+GSE6518	GPL570	9	17951470	2007/12/13	Conjugated linoleic acid (CLA) and Caco-2 cells
+GSE16555	GPL570	9	20639455	2010/06/23	Over-expression and knockdown of KLF5
+GSE16934	GPL570	9		2011/09/01	A five-gene signature is associated with tumor progression and poor prognosis in colorectal cancer
+GSE19963	GPL570	9		2010/12/01	Expression data from hyperplastic polyps and normal colonic mucosa from patients with familial and sporadic HPPS
+GSE23882	GPL570	9	21575264	2011/08/15	Microarray analysis of gene expression profile in HCT116 colon cancer cells expressed the isoform A or isoform B of the 
+GSE34053	GPL570	9	22157717	2011/12/01	CD133+ colon cancer cells are more interactive with the tumor microenvironment than CD133- cells
+GSE35382	GPL570	9	22919439	2013/05/29	Comparison of gene expression profiles of HT29 cells treated with Instant Caffeinated Coffee or Caffeic Acid versus cont
+GSE38833	GPL570	9	23411228	2012/06/20	Transcription profiling of human colon Caco-2 cells treated with hydroxytyrosol (HTy) and hydroxytyrosyl ethyl ether (HT
+GSE40220	GPL570	9	27586588	2013/07/07	INTESTINAL FILTER FOR USE IN OESOPHAGEAL CANCER RESEARCH
+GSE41364	GPL570	9	23902433	2013/09/17	Expression data for HT29 cells treated with 5-aza-deoxy-cytidine [Affymetrix]
+GSE58049	GPL570	9	25079072	2014/07/07	Genome-wide analysis in human colorectal cancer cells reveals ischemia-mediated  expression of motility genes via DNA hy
+GSE77474	GPL570	9	27036009	2016/04/06	Intestinal myofibroblast vs skin fibroblast
+GSE106325	GPL570	9		2017/10/31	Expression data from  human bone marrow derived mesenchymal stem cells (BMSCs) either cultured alone or co-cultured with
+GSE201899	GPL570	9	36442297	2022/12/21	Expression data from colorectal cancer cell lines and CX-5461 treatment
+GSE2461	GPL96	8		2005/04/01	Control (IBS) & Ulcerative colitis (UC) subjects
+GSE5486	GPL570	8	17086209	2006/08/11	Using GINI2 to identify novel mutations in candidate tumor suppressor genes in colon cancer cells
+GSE7678	GPL570	8	17656095	2007/08/20	miRNA34 expression in SW480 cells
+GSE11941	GPL570	8	18611269	2008/10/01	Topoisomerase II inhibition involves characteristic chromosomal expression patterns: Trovafloxacin study
+GSE14773	GPL570	8	21640118	2011/10/25	Roles of  EMT regulator in colon cancer
+GSE18462	GPL570	8		2010/10/06	Comparison of gene expression profiles between paired primary and metastasis colorectal carcinoma
+GSE22061	GPL570	8	20739454	2010/08/28	Gene expression profiles of HCT116 colorectal carcinoma cells treated with HDAC inhibitors
+GSE31084	GPL570	8		2012/07/01	HCT116 colon cancer CRC in high and low glucose
+GSE33420	GPL570	8	22691140	2012/05/02	microRNA-143 downregulates Hexokinase 2 in colon cancer cells
+GSE35973	GPL570	8		2012/02/21	Gene expression levels in colon cancer cells with mutant K-ras under hypoxic conditions
+GSE66983	GPL570	8	30250604	2016/04/03	Colon cancer shperes are sensitive to Fenretinide
+GSE6695	GPL570	7	17194187	2007/08/28	Genome-wide screen for promoter methylation in NSCLC identifies novel methylation markers for multiple malignancies
+GSE18625	GPL570	7		2010/10/01	Identification of miR-145 targets involved in colon cancer
+GSE1141	GPL96	6		2004/04/20	Inflammatory bowel disease (HG-U133A)
+GSE1323	GPL96	6	16531451	2004/09/01	Isogenic primary tumor/metastasis comparison
+GSE2509	GPL96	6	16531451	2005/11/08	Colon cancer progression-polysomal difference
+GSE6274	GPL96	6	17242211	2007/03/01	GAPF profiles from HFF2 and Colo320DM cells
+GSE10650	GPL570	6	19383367	2009/02/26	HCT116 PCLKC
+GSE11440	GPL570	6	18694510,19732436,21864507	2008/09/08	Role of Caveolin 1, E-Cadherin, Enolase 2 and PKCa on resistance to methotrexate in human HT29 colon cancer cells
+GSE12034	GPL570	6	16968779,25035411	2008/07/09	The transcriptome of human oocytes
+GSE13568	GPL570	6		2011/10/31	Expression data from colorectal cancer cells
+GSE13759	GPL96	6		2011/03/01	Poorly metastatic HCT116 vs metastatic E1 colon cancer cell lines
+GSE15322	GPL570	6	19728713	2009/03/21	Comparative transcriptomic profiling of human colon cells (CCD-18Co) exposed to an orange extract rich in flavanones
+GSE15799	GPL570	6	20087348	2010/03/03	Expression data from NS398-treated and control HT29 colon adenocarcinoma cell line samples
+GSE16066	GPL570	6	19732436	2009/09/08	Networking of differentially expressed genes in CaCo2 human colon cancer cells resistant to methotrexate
+GSE16070	GPL570	6	19732436	2009/09/08	Networking of differentially expressed genes in human MCF7 breast cancer cells resistant to methotrexate
+GSE16080	GPL570	6	19732436	2009/09/08	Networking of differentially expressed genes in human MDA-MB-468 breast cancer cells resistant to methotrexate
+GSE16082	GPL570	6	19732436	2009/09/08	Networking of differentially expressed genes in human MIA PaCa2 pancreatic cancer cells resistant to methotrexate
+GSE16085	GPL570	6	19732436	2009/09/08	Networking of differentially expressed genes in human K562 erythtoblastic leukemia cells resistant to methotrexate
+GSE16089	GPL570	6	19732436	2009/09/08	Networking of differentially expressed genes in human Saos-2 osteosarcoma cells resistant to methotrexate
+GSE19072	GPL570	6	19914252,22115830,25916654	2010/12/04	Loss of Rab25 promotes the development of intestinal neoplasia
+GSE21826	GPL570	6		2011/03/01	Expression data from human peripheral blood samples
+GSE22106	GPL570	6	21148402,27056727	2010/06/03	Hydrocortisone induces changes in gene expression and differentiation of immature human enterocytes
+GSE24747	GPL96	6	21826669	2011/01/04	NOVEL POTENTIAL MARKERS OF TUMOR-INITIATING CELLS IN COLON CANCER
+GSE29060	GPL570	6	23049694	2012/01/01	Expression data from human HT-29 immortalized colorectal adenocarcinoma cell line
+GSE29316	GPL570	6	21597001	2011/05/17	Expression data from colon fibroblasts treated with Sonic hedgehog homolog (SHH)
+GSE33143	GPL570	6	22914623	2012/08/23	Targeted disruption of the BCL9/beta-catenin complex in cancer
+GSE37267	GPL570	6	25723531	2013/01/01	Expression data from human colonic biopsy samples
+GSE39999	GPL570	6	23254300	2012/12/08	Filarial nematode AsnRS interacts with interleukin 8 receptors in iDCs but causes different gene expression patterns com
+GSE41326	GPL570	6	23136185	2012/10/04	Expression data from HepG2 cells before and after RNF43 knockdown
+GSE44029	GPL570	6	23576566	2013/02/04	Expression data from  SW480 cells with Gankyrin knockdown
+GSE48998	GPL570	6	26847345,32774160	2013/07/18	Expression data of TAGLN-overexpressing RKO human colon cancer cells
+GSE49536	GPL570	6	25156493	2013/08/20	Effect of ArhGAP30 on the gene expression profile of colorectal cancer cells
+GSE50659	GPL570	6	25875824	2016/08/25	HOXA5 inhibits metastasis and associates with prolonged survival in lung cancer
+GSE56896	GPL570	6	24952462	2014/05/20	Identification of beta-cetenin/TCF4 target genes in LS174T colorectal cancer cells using gene expression arrays
+GSE58750	GPL570	6	24973890	2014/09/01	Modulated electro-hyperthermia related mRNA expression profile development in HT-29 xenograft mouse model.
+GSE58751	GPL570	6	32367652	2020/05/14	Genes regulated by SDC1 in Caco-2 cells
+GSE65222	GPL570	6		2015/01/23	Global gene expression analysis of human colorectal cancer tissue
+GSE67338	GPL570	6		2015/03/27	Expression data of human neuroblastoma IMR32 cells treated with the DHODH inhibitor Teriflunomide [118 µM]
+GSE74492	GPL570	6	29085225	2017/09/21	Glycosylation-related gene expression in the mucus-secreting gastrointestinal cell line HT29-MTX-E12 in response to infe
+GSE76210	GPL570	6	28320945	2017/08/30	A new 3D culture system to identify disease-relevant genes in colorectal cancer [Microarray expression]
+GSE82198	GPL570	6		2019/06/02	Expression data from human Circulating Tumor Cells (CTC) and HT-29 cells
+GSE84597	GPL570	6		2017/09/15	De novo MYC addiction as an adaptive response of cancer cells to CDK4/6 inhibition
+GSE92335	GPL570	6	28433598,32042551	2018/01/01	Expression data for human colon cancer cell line HCT116 transfected with siRNA targeting YAP1.
+GSE94154	GPL570	6		2018/06/08	Gene expression after 24h Cocoa Extract incubation in HT29 cells
+GSE106808	GPL570	6	29670091	2017/11/13	RHOQ knock-down Expression data from colorectal cancer cell line HCT-116
+GSE130750	GPL570	6		2020/05/05	Tankyrase inhibitors target colorectal cancer stem cells via AXIN-dependent downregulation of c-KIT tyrosine kinase
+GSE137306	GPL570	6		2022/08/26	A novel role of the RNA binding protein CPEB3 in colorectal cancer progression
+GSE217758	GPL570	6	37968472	2024/01/17	Gene expression data of colorectal cancer patient-derived cells treated with tankyrase inhibitors
+GSE232209	GPL570	6	37968472	2024/01/17	Gene expression data of APC-mutated colorectal cancer patient-derived cells treated with tankyrase inhibitors
+GSE245371	GPL570	6	40163723	2025/04/01	Therapeutic targeting of the NOTCH1 and neddylation pathways in T cell acute lymphoblastic leukemia
