@@ -1,0 +1,546 @@
+gse	n_samples	title	counts_file
+GSE138734	921	The RNA Atlas expands the catalog of human non-coding RNAs	GSE138734_RNAAtlas_totalRNA_counts_filtered.txt.gz
+GSE214129	447	Precisely controlled cell-cell interactions with single-cell transcriptome readout identify a time-demand threshold response of human oncolytic NK cells	GSE214129_Counts_PrimNK.csv.gz
+GSE303377	384	Colorectal Cancer cohort from the Geneva Cancer Registry	GSE303377_counts_matrix.csv.gz
+GSE293591	365	Integrative Assessment of RNA-seq and IHC: Linking Tumor Biomarkers and Microenvironment	GSE293591_TPM_all_samples.tsv.gz
+GSE230524	226	Antigen-driven colonic inflammation is associated with development of dysplasia in primary sclerosing cholangitis [bulk RNASeq]	GSE230524_count_table.txt.gz
+GSE99015	198	Synergistic activity and heterogeneous acquired resistance of combined MDM2 and MEK inhibition in KRAS mutant cancers	GSE99015_FPKM-data-batch-corrected.txt.gz
+GSE295349	183	KLF5 interacts with RUVBL1/2 to activate classical and basal lineage identities in PDAC [RNA-seq]	GSE295349_CB6644_nonPDAC_RNAseq_TPM.txt.gz
+GSE146889	176	RNA-seq Reveals Differences in Expressed Tumor Mutation Burden in Colorectal and Endometrial Cancer With and Without Defective DNA Mismatch Repair	GSE146889_GeneCount.tsv.gz
+GSE259422	156	Transcriptomic Profiling of Plasma Extracellular Vesicles Enables Reliable Annotation of the Cancer-specific Transcriptome and Molecular Subtype (plasma_cancer)	GSE259422_plasma_cancer_final_featureCounts_coding.csv.gz
+GSE203071	155	Machine-learning detects non-invasive 5-hydroxymeythylcytosine biomarkers for predicting response to chemotherapy in patients with metastatic colorectal cancer	GSE203071_normalized_count_matrix.csv.gz
+GSE146409	151	A single cell atlas of the human liver tumor microenvironment	GSE146409_UMI_counts_of_filtered_cells.csv.gz
+GSE197763	126	Pre-clinical validation of an RNA-based precision oncology platform for patient-therapy alignment in a diverse set of human malignancies resistant to standard treatments	GSE197763_IOMM_counts.txt.gz
+GSE289582	115	Baseline tumor features and peripheral blood immune dynamics that underlie efficacy in MSS metastatic colorectal cancer treated with regorafenib, ipilimumab, and nivolumab [Blood]	GSE289582_raw_counts_All_samples_RIN_Blood.txt.gz
+GSE190609	113	Peritoneal Metastases from Colorectal Cancer belong to Consensus Molecular Subtype 4 and are sensitized to oxaliplatin by inhibiting reducing capacity	GSE190609_Laoukili_readCounts_rpkm_rv.txt.gz
+GSE216561	113	Depletion-assisted multiplexing cell-free RNA sequencing reveals distinct human and microbial signatures in plasma versus extracellular vesicle	GSE216561_count_matrix_raw.txt.gz
+GSE329984	108	Non-Temperature-Induced Antitumor Effects of Amplitude-Modulated Radiofrequency: Molecular and Functional Synergies with Radiotherapy	GSE329984_all_featureCounts_counts_matrix.csv.gz
+GSE201412	105	Anti-tumor efficacy of a potent and selective non-covalent KRASG12D inhibitor	GSE201412_expression_read_counts.csv.gz
+GSE288179	105	Differential response of patient-derived intestinal organoids to site-specific mucosal bacteria in pediatric inflammatory bowel disease	GSE288179_unfilt_gene_counts_210125.tsv.gz
+GSE330465	104	Gene expression profiling of neoadjuvant ABFOLFOX treatment in patients with unresectable colorectal cancer with liver metastases	GSE330465_count.dat.txt.gz
+GSE290622	102	Opposing functions of distinct regulatory T cell subsets in colorectal cancer	GSE290622_counts.txt.gz
+GSE205430	100	Satellite repeat RNA expression in epithelial ovarian cancer is linked to a tumor immunosuppressive phenotype	GSE205430_counts_annot.tsv.gz
+GSE254242	99	Cancer cell type-specific derepression of transposable elements by inhibition of chromatin modifier enzymes [RNA-Seq]	GSE254242_LNCAP_1F5_p53_KO_all_treatments_gene_expression_counts.tsv.gz
+GSE275387	99	Cellular Defense Mechanisms Show Stronger Response to Linear DNA Compared to Circular Plasmid [RNA-seq]	GSE275387_HEK293T_RNAseq_raw_counts.txt.gz
+GSE166925	96	RNA-sequencing of whole tissue samples from patients with inflammatory bowel disease and colorectal cancer	GSE166925_featurecounts_counts.txt.gz
+GSE254249	92	Remodeling of T and endothelial cells during total neoadjuvant therapy in rectal cancer	GSE254249_bulkRNA_logTPM.tsv.gz
+GSE183202	90	Molecular characterization of colorectal cancer-related peritoneal metastatic disease [RNA-seq]	GSE183202_count_raw.txt.gz
+GSE291063	90	Gene expression profiling of human DLD-1 cells after instant depletion of TREX2 subunits	GSE291063_featurecounts_setcontrols.txt.gz
+GSE308451	90	CDK4/6 and SHP2 mediate BRAF/MEK inhibitor resistance in Class 2 and 3 BRAF mutant cancers	GSE308451_GCRC2015_DESEq_Counts.csv.gz
+GSE278476	89	Pre-vaccination transcriptomic profiles of immune responders to the MUC1 peptide vaccine for colon cancer prevention	GSE278476_rawCounts.csv.gz
+GSE296403	88	RNA-Seq of PBMC of FAP patient before and after a low-inflammatory diet	GSE296403_0_Expression_Level_PBMC_DIET_raw_counts.txt.gz
+GSE136272	86	Characterization of the menin-MLL interaction as therapeutic cancer target in solid tumor models	GSE136272_Table.read.counts.MEN1i.RNAseq.tsv.gz
+GSE277467	85	First multiomics association study of trace element and mineral concentration and RNA sequencing profiles in human cancers	GSE277467_normalized_counts.csv.gz
+GSE254877	84	Molecular Subtypes of Human Skeletal Muscle in Cancer Cachexia	GSE254877_raw_counts.txt.gz
+GSE215924	79	Small bowel RNA-seq data from patients with Crohn's disease and patients with colon cancer (non-CD controls)	GSE215924_Bulk_RNA_seq_TPM_matrix.txt.gz
+GSE292858	73	RNA-Seq analysis of  tumor and matched normal samples from colorectal cancer patients.	GSE292858_CRC_batch1and2_bcorrected_TPM_count.txt.gz
+GSE314628	73	Temporal Transcriptomic Profiling Identifies Core Regulators in Cytokine-Induced Gut Barrier Disruption in Differentiated Caco-2 Cells	GSE314628_batch1_primary_count_gene.Counts.Table.txt.gz
+GSE318268	73	CMS subtypes correlate with complete response in trial of neoadjuvant Galunisertib plus chemoradiation in rectal cancer	GSE318268_Normalized_counts.csv.gz
+GSE196168	72	Transcriptomic response to calcium in normal colon organoids is impacted by colon location and sex	GSE196168_counts.csv.gz
+GSE198697	72	Patient-derived organoid fibroblast co-cultures closely mimic tumor cell heterogeneity of colorectal cancer	GSE198697_rsem_gene_counts.tsv.gz
+GSE301521	72	FOCAS: Transcriptome-wide screening of individual m6A sites functionally dissects epitranscriptomic control of gene expression in cancer [FOCAS_4cellline_RNAseq]	GSE301521_RNAseq_4cellline_counts.txt.gz
+GSE260560	70	Transcriptomic Profiling of Plasma Extracellular Vesicles Enables Reliable Annotation of the Cancer-specific Transcriptome and Molecular Subtype (plasma_healthy)	GSE260560_plasma_healthy_final_featureCounts_coding.csv.gz
+GSE313035	67	METIMMOX: Colorectal Cancer METastasis - Shaping Anti-tumor IMMunity by OXaliplatin	GSE313035_TPM_ctrl.txt.gz
+GSE308020	66	Integrative multi-omics deciphers the potential mechanism and microbial biomarkers for lymph node metastasis in colorectal cancer	GSE308020_readcount_All_samples.txt.gz
+GSE146009	65	Immune-Related Gene Expression and Cytokine Secretion is Reduced Among African American Colon Cancer Patients	GSE146009_AfricanAmerican_RawCounts.txt.gz
+GSE216379	63	RNA-seq study of a helicon peptide targeting β-Catenin/TCF transcription factor [in vitro]	GSE216379_readcounts_CPM_allsamples_invitro.xls.gz
+GSE292601	62	Epithelial interferon-stimulated gene programs modulate chemotherapy sensitivity in colorectal cancer via EPSTI1	GSE292601_raw_counts_pdtos.txt.gz
+GSE207194	61	CD8+ CD226high T cells in liver metastases dictate the prognosis of colorectal cancer patients treated with chemotherapy and radical surgery	GSE207194_RawCounts_UHC_Besancon.txt.gz
+GSE183150	60	Exercise Training Influences Inflammatory and Immune Systems in Patients at High Risk for Colorectal Cancer: The CYCLE-P Study	GSE183150_counts.tsv.gz
+GSE309364	60	RNA-Seq analysis of cancer models with altered SLX4/XPF reveals links to migration, DNA damage response, EMT, and drug sensitivity	GSE309364_raw_count_All_Samples.txt.gz
+GSE171468	59	Genome-wide maps of colorectal cancer diagnosis and toxicity of capecitabine-based chemotherapy.	GSE171468_gene_sample_count_with_symbol_IDconvert.xls.gz
+GSE227376	59	Transcriptomic analysis reveals the dynamic changes of immune responses during the development of creeping fat in Crohn's disease	GSE227376_TPM_matrix.txt.gz
+GSE112941	57	Molecular variability of patient-derived colon tumor xenografts	GSE112941_normalized_count.txt.gz
+GSE254461	57	Machine-learning model based on glycosyltransferase expression predicts multiple cancer types, subtypes and survival probability	GSE254461_raw_counts.txt.gz
+GSE153412	54	Downregulation of KRAB zinc finger proteins in 5-fluorouracil resistant colorectal cancer cells 	GSE153412_est_counts.tsv.gz
+GSE179351	54	Radiation Therapy Inhances Immunotherapy Response in  Microsatellite-stable Colorectal and Pancreatic Adenocarcinoma in a Phase II Trial	GSE179351_RawCountsForAllSamples.txt.gz
+GSE182386	54	RNA-seq of SW480 colorectal cancer cells transfected with siRNAs targeting different putative metastasis promoting genes	GSE182386_raw_gene_counts_matrix.tsv.gz
+GSE287868	54	Transcriptomic footprinting following restoration of p53 sequence and function utilising Adenine Base Editing	GSE287868_raw_counts_new_ESO_HuCC_H1975.csv.gz
+GSE203608	53	Mapping and modeling human colorectal carcinoma interactions with the tumor microenvironment	GSE203608_GSM7294726-GSM7294729_gene_by_cell_count_matrix.txt.gz
+GSE230058	53	Eosinophils exhibit a unique transcriptional signature and increased sensitivity to IL-3-induced activation in response to colorectal cancer cells	GSE230058_normalized_counts_Clean.csv.gz
+GSE120065	52	A comprehensive transcriptome portrait of colorectal cancer derived organoid at single cell levels (Single cell RNA-seq)	GSE120065_Colon_Cancer_Organoid_TPM.txt.gz
+GSE288482	52	Integration activity of evolutionarily recent human retroelements Alu and LINE in tumors	GSE288482_gene_counts_raw_geo.csv.gz
+GSE248094	51	Systematic characterization of single-cell full-length RNA isoforms in human colorectal cancer	GSE248094_CellLine_Gene_Counts.csv.gz
+GSE255105	51	Transcriptome Analysis of Human Cancer Cells with Depleted or Overexpressed STELLA Proteins [RNA-seq]	GSE255105_all_gene_counts.txt.gz
+GSE302921	50	Phase I/II trial of encorafenib, cetuximab, and nivolumab in microsatellite stable, BRAFV600E metastatic colorectal cancer [dataset 1]	GSE302921_evRNA_count_coding.csv.gz
+GSE308653	50	YAP-driven stemness and TEAD-induced neuroendocrine cells drive resistance to KRASG12C therapies in metastatic colorectal cancer	GSE308653_B8026_rawcounts.csv.gz
+GSE152430	49	Next generation sequencing of FFPE human colon cancer samples for validation of ColoType consensus molecular subtype (CMS) assay	GSE152430_raw_gene_count_matrix.txt.gz
+GSE236690	48	Analysis of gene expression patterns tracking increasing metastatic potential of different clones from  colon cancer CC36 primary culture	GSE236690_rawcounts.txt.gz
+GSE242676	48	Exploiting a subtype-specific mitochondrial vulnerability for successful treatment of colorectal peritoneal metastases	GSE242676_raw_counts.txt.gz
+GSE249009	48	RNA sequencing analysis of isoginkgetin and thapsigargin treated HCT116 and HCT116 ATF4 deficient cells	GSE249009_count_table.csv.gz
+GSE249128	48	Maintenance of p-eIF2 alpha levels by the eIF2B complex is vital for colorectal cancer	GSE249128_Totals_2B1_2B4_NTCcorrected_normalised_counts.csv.gz
+GSE99821	48	Transcriptional profile of human iPSC and HIOs with APC mutations	GSE99821_raw_counts.txt.gz
+GSE289252	46	Lamin B1 and LAP2β resist cytoskeletal force to maintain lamin A/C meshwork organization and preserve nuclear integrity	GSE289252_raw_RNAseq_counts.txt.gz
+GSE251845	44	Identification of unique gene expression and splicing events in early-onset colorectal cancer	GSE251845_htseq_raw_counts.csv.gz
+GSE90830	44	Integrative proteogenomic characterization of colorectal cancer cell lines and primary tumors	GSE90830_cl_gene_counts.table.txt.gz
+GSE196006	42	Transcriptome analysis implicates MYC as a driver of early onset colorectal cancer	GSE196006_raw_counts.csv.gz
+GSE200129	42	Revealing and harnessing CD39 for the treatment of colorectal cancer and liver metastases by engineered T cells [mCRC]	GSE200129_genes.counts.txt.gz
+GSE256268	42	Transcriptomic Profiling of Plasma Extracellular Vesicles Enables Reliable Annotation of the Cancer-specific Transcriptome and Molecular Subtype (tumor tissues)	GSE256268_tumor_featureCounts_coding.csv.gz
+GSE264227	42	Effect of pharmacological inhibition of SMYD3 on gene expression in patient-derived CRC-SCs	GSE264227_Patients_rawcounts.txt.gz
+GSE142279	40	RNA-seq data of 20 pairs of colorectal tumor with matched adjacent normal colorectal tissue	GSE142279_FPKM.xls.gz
+GSE223119	40	Hypoxia-induced cysteine metabolism reprogramming are crucial for the tumorigenesis of colorectal cancer [tissue pair]	GSE223119_MJ20190424016-gene.tpm.matrix.annot.txt.gz
+GSE289480	40	IGF2BP3 regulates RNA metabolism during unfolded protein response [RKO iCas9 cells]	GSE289480_RNA_counts.csv.gz
+GSE200130	37	Revealing and harnessing CD39 for the treatment of colorectal cancer and liver metastases by engineered T cells [CRC]	GSE200130_genes.counts.txt.gz
+GSE253106	37	Transcriptome analysis reveal novel gene fusions in early onset sporadic rectal cancers	GSE253106_eosrc_rlog_normalization_on_fcounts.txt.gz
+GSE108050	36	Expression data in LoVo cells treated with MEK inhibitor	GSE108050_count.matrix.txt.gz
+GSE110649	36	RNA sequencing of wildtype-KRAS HKE3 (wtHKE3) and mutant-KRAS HKE3 (mtHKE3) colorectal cancer cell lines before and after stimulation with TGF-alpha	GSE110649_RNAseq_Counts_wtHKE3_mtHKE3.txt.gz
+GSE149262	36	RNA-sequencing analysis of transcriptional changes in DLD-1 KRAS MUT and WT isogenic cells following IL-22 or IL-6 stimulation	GSE149262_IL22KRAS_featurecounts.csv.gz
+GSE236688	36	Analysis of gene expression patterns tracking increasing metastatic potential of different clones from  colon cancer CC14 primary culture	GSE236688_rawcounts.txt.gz
+GSE263449	36	Transcription start site analysis of NIPBL depletion in cancer cell line	GSE263449_CAGE_nipbl2_deseq2_tpm0.5_results_uniq_HCT116.txt.gz
+GSE312082	36	Translatome and transcriptome sequencing data of 16-day kinetic response in colorectal cancer to 5-FU chemotherapy	GSE312082_Normalized_counts_kinetic.tsv.gz
+GSE180790	35	Peritoneal metastasis of colorectal cancer (pmCRC): Identification of predictive molecular signatures by a novel preclinical platform of matching pmCRC PDX/PD3D models	GSE180790_All_samples_norm_counts.gct.gz
+GSE235919	34	First-line durvalumab and tremelimumab with chemotherapy in RAS-mutated metastatic colorectal cancer: a phase 1b/2 trial [RNA-Seq]	GSE235919_TPM.txt.gz
+GSE132465	33	Single cell 3' RNA sequencing of 23 Korean colorectal cancer patients	GSE132465_GEO_processed_CRC_10X_raw_UMI_count_matrix.txt.gz
+GSE193534	33	Distant antimetastatic effect of enterotropic colon cancer-derived α4β7 CD8 T cells [bulk RNA-seq]	GSE193534_matrix_expression_TPM.txt.gz
+GSE217504	33	Sequence and dynamics of SARS-CoV-2 host cell interactions inferred from    transcriptome analyses	GSE217504_host_counts_matrix.csv.gz
+GSE228012	33	Potential driver genes involved in the initiation of CRC	GSE228012_all.gene.FPKM.mRNA_processed.txt.gz
+GSE236896	33	Select EZH2 inhibitors enhance the viral mimicry effects of DNMT inhibition through a mechanism involving Calcium-Calcineurin-NFAT signaling [RNA-seq]	GSE236896_All_samples_raw_counts.txt.gz
+GSE338197	33	Dissection of Poly(A)-binding protein (PABPC) cellular function using degron-mediated depletion with replacement	GSE338197_raw_gene_counts.txt.gz
+GSE289214	32	IGF2BP3 regulates RNA metabolism during unfolded protein response	GSE289214_RNA_counts.csv.gz
+GSE212014	31	Culture media composition influences patient-derived organoids ability to predict therapeutic response in gastrointestinal cancers 	GSE212014_counts.txt.gz
+GSE179057	30	Perturbation-informed signatures from crosswise integration of transcriptome and chromatin accessibility analyses predict susceptibility to candidate anticancer drugs [RNA-Seq]	GSE179057_count_RNA_Carraro.csv.gz
+GSE211831	30	Plasma Multi-omics Nucleic Acid Landscape of Gastrointestinal Cancer [Tissue RNA-seq]	GSE211831_tissue_featurecount_intron_spanning.txt.gz
+GSE217759	30	DNA methylation insulates exons from CTCF loops with nuclear speckles (RNA-Seq)	GSE217759_K562_dtagknockin_dtag13_6hr_rep1_dexseq.counts.txt.gz
+GSE227910	30	Treatment of 1,25(OH)2D3 or Antagonist in HCT116 WT and VDRKO cell lines	GSE227910_gene-featureCount-else-int_name.txt.gz
+GSE253112	30	FXR isoforms drive differentiation and differentially inhibit proliferation in colorectal cancer	GSE253112_DEJ8170_GRCh38_exon_featureCounts.raw.txt.gz
+GSE255163	30	Th17 cells secrete TWEAK to trigger epithelial-mesenchymal transition and promote colorectal cancer liver metastasis (RNA-seq)	GSE255163_RNAseq_count.csv.gz
+GSE287078	30	Time- and Dose-Dependent Effects of Irradiation on Endothelial and Tumor Endothelial Cells: Transcriptional, Molecular, and Functional Changes Driving Activation In Vitro and In Vivo	GSE287078_gene_count.txt.gz
+GSE303444	30	Transcriptional and immune repertoire profiling of mismatch repair-deficient colorectal cancer	GSE303444_rawcounts_matrix.txt.gz
+GSE325868	30	Integrated Transcriptomic Profiling Reveals Immune and Molecular Stage-Specific Signatures of Colorectal Cancer in Hispanics Living in Puerto Rico	GSE325868_rna-seq-normalized-counts.csv.gz
+GSE196711	29	Immune profiling of premalignant lesions in patients with Peutz-Jeghers Syndrome	GSE196711_TPM.txt.gz
+GSE216380	29	RNA-seq study of a helicon peptide targeting β-Catenin/TCF transcription factor [in vivo]	GSE216380_readcounts_CPM_allsamples_invivo100mpk.csv.gz
+GSE319664	29	RNA-seq analysis of tumors derived from a xenograft model treated with the KDM5B inhibitors JB-157 or JB-161.	GSE319664_FPKM.txt.gz
+GSE150050	28	Tissue-specific transcriptional imprinting and heterogeneity in human innate lymphoid cells revealed by full-length single-cell RNA-sequencing	GSE150050_all_cells_STAR_raw_counts.csv.tar.gz
+GSE245085	28	Glutaminase as a metabolic target of choice to counter acquired resistance to Palbociclib by colorectal cancer cells	GSE245085_gene_counts.csv.gz
+GSE337675	28	Truncating ASXL1 variants rewire cellular metabolism via mitochondrial pyruvate carrier repression	GSE337675_HEK293T_star_featureCounts_GeneTable_final.csv.gz
+GSE152195	27	Concurrent depletion of Vps37 proteins evokes inflammatory response and cell growth inhibition via ESCRT-I destabilization.	GSE152195_DESeq2_normalized_counts.txt.gz
+GSE169720	27	Prrx1 is a Master Transcription Factor of myofibroblastic Cancer-Associated Fibroblasts [Human_CAF_RNA_seq]	GSE169720_Human_CAF_count.tsv.gz
+GSE264131	27	Comparative network-based analysis of toll-like receptor agonist, L-pampo signaling pathways in immune and cancer cells	GSE264131_tpm.csv.gz
+GSE218558	26	RNAseq of colorectal cancer organoids	GSE218558_gene_tpm_matrix_DR_P7_vs_P7.csv.gz
+GSE297882	26	Cell and nuclear size are associated with chromosomal instability and tumorigenicity in cancer cells that undergo whole genome doubling	GSE297882_gene_fpkm.txt.gz
+GSE145356	25	Colorectal cancer cells possess an equipotent capacity to enter a reversible diapause-like state to survive chemotherapy	GSE145356_merged_HTSeq_readCounts_V2.txt.gz
+GSE212854	25	An RNA-based precision oncology platform for patient-therapy alignment in a diverse set of treatment resistant malignancies	GSE212854_PDX_Pharmacodynamic_BC_GIST_Plate1_counts.txt.gz
+GSE100785	24	RNA-Seq on the effect of VitaminD on colonic and tumor organoids	GSE100785_htcounts_TumoralTissue_paired_cpm_X.xls.gz
+GSE113585	24	Profiling of colorectal tumor-infiltrating CD8 T cells according to their expression status of CD39	GSE113585_log2FPKM_CD8TCell_CRC.txt.gz
+GSE142340	24	Optimized high-order low-dose drug mixtures boost selectivity and efficacy of colorectal carcinoma treatment	GSE142340_rawcounts.txt.gz
+GSE216381	24	RNA-seq study of a helicon peptide targeting β-Catenin/TCF transcription factor [shRNA]	GSE216381_readcounts_CPM_allsamples_shRNA.xls.gz
+GSE227871	24	Removal of oxaliplatin- and cisplatin-DNA lesions requires different global genome repair mechanisms that affect their clinical efficacy.	GSE227871_rnaseq_deseq_global_counts_raw.tsv.gz
+GSE265906	24	Epigenetic and oncogenic inhibitors cooperatively drive differentiation and kill KRAS-mutant colorectal cancers [LOVO_BCat]	GSE265906_gene_count.xls.gz
+GSE284007	24	The long noncoding RNA C1QTNF1-AS1 interacts with RSRC2 to ensure mitotic fidelity	GSE284007_C1_LNA_rsem_counts.txt.gz
+GSE288275	24	Inhibition of the STAT3/Fanconi anemia axis is synthetic lethal with PARP inhibitor in breast cancer	GSE288275_raw_counts_all_samples.txt.gz
+GSE288560	24	Combined therapy with DR5- targeting antibody-drug conjugate and CDK inhibitors as a novel strategy for advanced MSS and MSI-H colorectal cancer	GSE288560_gene_fpkm.txt.gz
+GSE291188	24	Unravelling the antitumor mechanism of Ocoxin through cancer cell genomics	GSE291188_UPV-3132.counts.txt.gz
+GSE304295	24	Effect of adenoviral E1A on oxaliplatin response in oxaliplatin-sensitive and resistant human colorectal cancer HCT116 cells	GSE304295_raw_counts_all_samples.txt.gz
+GSE304522	24	The MUC1 extracellular domain and cytoplasmic tail play distinct roles during Salmonella invasion of enterocytes	GSE304522_MTX_Sal_6H_rawcounts.txt.gz
+GSE314343	24	Interference with PADI1 and PADI3 re-sensitizes KRAS-Mutant PDAC and CRC to KRAS ON/OFF Inhibitors by Promoting Non-lytic Apoptosis	GSE314343_gene_count_matrix.txt.gz
+GSE314476	24	Sex-specific effects of exogenous asparagine on colorectal tumor growth, 17β-estradiol levels, and aromatase	GSE314476_Female_normalized.counts.txt.gz
+GSE145429	22	Reducing metastases stiffness by targeting fibroblasts improves therapeutic outcome in colorectal cancer [Tissue]	GSE145429_countMatrix_tissue.txt.gz
+GSE180941	22	Cancer Cell Resistance to IFNγ Can Occur via Enhanced Double-Strand Break Repair Pathway Activity [RNA-seq]	GSE180941_Raw_Gene_Counts_Matrix.txt.gz
+GSE200407	22	RNA-seq between  between FOLFOX chemotherapy sensitivity and insensitivity in colorectal cancer	GSE200407_all.counts.txt.gz
+GSE224034	22	Effect of faecal water exposure from control or antibiotic-treated mice on gene expression of Caco-2 cells	GSE224034_raw_counts.tsv.gz
+GSE233517	22	Neoadjuvant chemoradiation alters biomarkers of anticancer immunotherapy responses in locally advanced rectal cancer	GSE233517_raw_counts.txt.gz
+GSE310664	22	Analysis of experimental colorectal liver metastases identifies distinct proliferation independent transcriptional programs in micro- versus macrometastases	GSE310664_PET3671_PET3672_readCounts_raw.txt.gz
+GSE152958	21	Gene expression changes upon siCTNNB1 and compound treatment	GSE152958_raw_gene_counts.txt.gz
+GSE192376	21	RNA-fractionation sequencing	GSE192376_fractionation_normalized_read_counts.csv.gz
+GSE223605	21	A Leaky Human Colon Model Reveals Uncoupled Apical/Basal Cytotoxicity in Early Clostridioides difficile Toxin Exposure	GSE223605_GEO_differentiation_raw_gene_counts.csv.gz
+GSE251958	21	Predicting patient outcome based on gene-expression biomarkers learned from colorectal cancer organoids and cell lines	GSE251958_Raw_gene_counts_matrix.txt.gz
+GSE308448	21	Gene expression profiling of HBEpCs and Caco-2 cells during infection with WT SARS-CoV-2 or a recombinant SARS-CoV-2 deficient in PLpro deISGylation activity	GSE308448_Caco-2_raw_counts_All_Samples.csv.gz
+GSE119968	20	An optimised protocol harnessing laser capture microdissection for transcriptomic analysis on matched primary and metastatic colorectal tumours to identify novel biomarker	GSE119968_Pat_1_Genes_Count.txt.gz
+GSE146771	20	Single-Cell Analyses Inform Mechanisms of Myeloid-Targeted therapies in colon cancer	GSE146771_CRC.Leukocyte.Smart-seq2.TPM.txt.gz
+GSE162945	20	Stereotactic body radiotherapy is effective in modifying the tumor genome and tumor immune microenvironment in non-small cell lung cancer or lung metastatic carcinoma [RNA-seq]	GSE162945_gene_count_matrix.csv.gz
+GSE255773	20	Transcriptomic Profiling of Plasma Extracellular Vesicles Enables Reliable Annotation of the Cancer-specific Transcriptome and Molecular Subtype (cell lines)	GSE255773_cell_lines_featureCounts_coding.csv.gz
+GSE276849	20	Prognostic and diagnostic value of metal metabolism in colorectal cancer	GSE276849_gene_counts_raw_geo.csv.gz
+GSE288724	20	Network analysis of normal colon organoids exposed to metformin reveals likely regulatory role for colorectal cancer genome-wide association study candidate genes	GSE288724_counts.csv.gz
+GSE329293	20	Macrophages transfer functional target-cell proteins to their surface during live cell uptake 	GSE329293_RNA_seq_raw_reads_count_all.csv.gz
+GSE347528	20	Transcriptomic comparison of colorectal cancer biopsies and human iPSC-derived intestinal organoids	GSE347528_GEO_gene_count_matrix_20samples.tsv.gz
+GSE348945	20	Bulk RNA-seq profiling of paired colorectal cancer and adjacent tissues	GSE348945_TPM.gene.txt.gz
+GSE93904	20	Gene expression profile of CRC-derived HILEC	GSE93904_gene_counts.txt.gz
+GSE150949	19	Cycling cancer persisters arise from lineages with distinct transcriptional and metabolic programs	GSE150949_pooled_watermelon.count.matrix.csv.gz
+GSE259318	19	Human Pluripotent Stem Cell Derived Organoids Reveal a Role for WNT Signaling in Dorsal-Ventral Patterning of the Hindgut	GSE259318_TPM.txt.gz
+GSE335198	19	RNA-seq and ONT full-length transcriptome profiling of HCT116 and WiDr cells treated with DMSO, GSK025, or GSK715	GSE335198_ont_widr_gene_counts_matrix.tsv.gz
+GSE144735	18	Single cell 3' RNA sequencing of 6 Belgian colorectal cancer patients	GSE144735_processed_KUL3_CRC_10X_raw_UMI_count_matrix.txt.gz
+GSE146232	18	The Chromatin Remodeler Chromodomain Helicase DNA Binding Protein 2 Promotes Colorectal Cancer Progression	GSE146232_vstnormcounts.txt.gz
+GSE152904	18	FcγRIIB engagement drives agonistic activity of Fc-engineered αOX40 antibody to stimulate human tumor-infiltrating T cells	GSE152904_ERASMUS.TPM.log2.txt.gz
+GSE215308	18	MUC1-C IS A MASTER REGULATOR OF MICA/B NKG2D LIGAND AND EXOSOME SECRETION IN HUMAN CANCER CELLS	GSE215308_Gene_TPM_COLO201.csv.gz
+GSE215838	18	Effect of depletion of ZNF692 on gene expression in  DLD1 colorectal human cells	GSE215838_geneMatrixCounts_mRNAseq.txt.gz
+GSE233876	18	Dietary tyramine promotes colon cancer risk and development via increased DNA damage and enhanced Inflammation [HCT116]	GSE233876_normalized_counts_DESeq.txt.gz
+GSE245351	18	Charting the transcriptomic landscape of primary and metastatic cancers in relation to their origin and target normal tissues	GSE245351_ctl_salmon_stringtie_FPKM.tsv.gz
+GSE246045	18	Chromatin accessibility and transcriptomic responses to HDAC inhibitors in TP53 mutated patient-derived colon cancer organoids [RNA-seq]	GSE246045_RNAseq_counts.txt.gz
+GSE252858	18	The anticancer Ruthenium drug BOLD-100 regulates apoptosis of BRAFMT colorectal cancer cells through modulation of the AhR/ROS/ATR signalling axis.	GSE252858_Merged_raw_counts.txt.gz
+GSE261895	18	Disruption of deoxynucleotide biosynthesis leads to RASproto-oncogene activation and perturbation of mitochondrial metabolism [RNA-seq]	GSE261895_counts_raw.csv.gz
+GSE262796	18	Gene expression changes associated with acquired resistance to anti-EGFR therapy (cetuximab) in colorectal cancer cells	GSE262796_counts.xls.gz
+GSE266892	18	A genome-wide screen for peroxisome regulators connects peroxisomes with Wnt signaling through RNF146 and tankyrase	GSE266892_RNAseqCountTable-GEO.txt.gz
+GSE269369	18	LIN28B-mediated activation of the PI3K/AKT pathway promotes metastasis and unravels a new therapeutic vulnerability in colorectal cancer	GSE269369_GEO_RNAseq_TPM.csv.gz
+GSE270759	18	Oncogenic KRAS Mutations Confer a Unique Mechanotransduction Response to Peristalsis in Colorectal Cancer Cells	GSE270759_normalized_counts_RKOmut_Static.csv.gz
+GSE284656	18	Development and validation of a high-throughput screening pipeline of compound libraries to target EMT	GSE284656_processedCounts.txt.gz
+GSE285726	18	Targeting cancer through simultaneous inhibition of key metabolic enzymes	GSE285726_time_series_raw_counts.csv.gz
+GSE289055	18	P2RY2 fuelled by eATP drives cancer immune evasion and therapy resistance	GSE289055_all_cnt_FeatureCounts.tsv.gz
+GSE289424	18	IGF2BP3 regulates RNA metabolism during unfolded protein response [RNA-Seq]	GSE289424_RNASeq_gene_counts.csv.gz
+GSE291524	18	ColoStem, a core transcriptional signature that identifies poor prognosis fetal-type colorectal tumors	GSE291524_RNAseq_RawCounts_RNAseq_PDOs_dataset.txt.gz
+GSE292288	18	Separation-of-function mutants reveal the NF-κB-independent involvement of IκBα in the regulation of intestinal stemness [RNAseq Knock-ins IKBa]	GSE292288_RNAseq_All_samples_RAW_counts_Knock-in_IkBa-SOF.txt.gz
+GSE299345	18	Exon Skipping of Ste20-Like Kinase Enhances Glycolysis and Tumor Progression by Activating Enolase 1 mediated Phosphoenolpyruvate Production	GSE299345_gene_count.csv.gz
+GSE305244	18	TNF-α Deficiency Underlies NK Cell Dysfunction in Colorectal Cancer	GSE305244_raw_counts.csv.gz
+GSE305561	18	Targeting HSPB1 Reduces Tumor Growth and Abrogates Treg-Mediated Tumor Immunosuppression	GSE305561_Processed_data_FPKM.txt.gz
+GSE311262	18	Recapitulating Patient-to-Patient Colorectal Cancer Tumor Heterogeneity  Using Patient-Derived Xenograft Cells in an Engineered Tissue Model	GSE311262_htseq-gene_counts_human_StageIIIB.txt.gz
+GSE311775	18	LL-37 inhibits EV71 infection by upregulating STAC	GSE311775_gene_fpkm.txt.gz
+GSE335441	18	HCFC2 knockdown in human colorectal cancer cell lines	GSE335441_gene_count_matrix.csv.gz
+GSE99133	18	Specific labeling of stem cell activity in human colorectal organoids using an ASCL2-responsive minigene	GSE99133_readCounts_noiseStablized_notNormalized.txt.gz
+GSE101588	17	A Low-cost Multiplex Biomarker Assay Stratifies Colorectal Cancer Patient Samples into Clinically-relevant Subtypes: Singapore Cohort RNA-seq	GSE101588_Singapore_RNAseq_20170716_TPM_supplementary_file.txt.gz
+GSE147971	17	Medium-throughput drug screening of patient-derived organoids from colorectal peritoneal metastases can be used to guide therapy	GSE147971_counts.csv.gz
+GSE202744	17	Selective CDK9 inhibition by natural compound toyocamycin in cancer cell	GSE202744_count-matrix.tsv.gz
+GSE270765	17	Disseminated tumor cell of colorectal cancer adopt the wound healing program of epidermal keratinocyte [RNA-seq]	GSE270765_row_counts_GSKPY.csv.gz
+GSE280384	17	Mesenchymal Colorectal Cancers Secrete Vesicles With Unique Cargo That Can Be Used For Liquid Biopsy Based Diagnostics [RNA-seq plasma]	GSE280384_raw_counts.txt.gz
+GSE283451	17	Air-liquid_interface_Caco-2_culture_with_vasointestinal_peptide_ mimicks_ gut_ mucosal_ barrier_ function_ in_ permeability_ and_bacterial infection	GSE283451_Caco-2_VIP_RNAseq_processed-data_raw_counts.txt.gz
+GSE292184	17	FOXM1 drives metabolic adaptations in colorectal cancer brain metastases and represents a potential therapeutic target	GSE292184_raw_counts.tsv.gz
+GSE300623	17	Transcriptomic analyses of PDX tumors (QQX-17) to gain insight into the mechanisms underlying FOLFOXIRI-induced DTP state.	GSE300623_1_genes_fpkm_expression.txt.gz
+GSE101526	16	PolyA RNA-seq from HCT116 (WT and CDK8as/as) cells in normoxia or hypoxia and treated with DMSO or 3MB-PP1	GSE101526_HTSeq_in_counts.txt.gz
+GSE101540	16	RNA-seq of cancer cell lines treated with T-025	GSE101540_RNAseq_FPKM_matrix.txt.gz
+GSE106886	16	Cohesin loss eliminates all loop domains [PRO-Seq]	GSE106886_Rao-2017-Genes.counts.txt.gz
+GSE108140	16	Identification of Differentially Expressed Splice Variants by the Proteogenomic Pipeline Splicify	GSE108140_featurecounts_Triplo.txt.gz
+GSE112565	16	Gene Expression Profiling of Estrogen Signaling in Colon Cancer Cell Line [CRC Project]	GSE112565_count_table_CRC_C_Williams.txt.gz
+GSE114946	16	The NORAD lncRNA assembles a topoisomerase complex critical for genome stability [RNA-seq]	GSE114946_Count_table.txt.gz
+GSE129501	16	Transcriptional responses to interferon require Mediator kinase-dependent pause release and mechanistically distinct functions of CDK8 and CDK19	GSE129501_body_counts.txt.gz
+GSE138202	16	Next Generation Sequencing of CRC tissue	GSE138202_all.counts.exp.txt.gz
+GSE147111	16	The LIM protein Ajuba promotes a metastatic phenotype in colon cancer cells	GSE147111_ReadCounts.csv.gz
+GSE162826	16	STL427944 suppresses FOXM1 via nuclear export and subsequent autophagic degradation	GSE162826_quant_counts.txt.gz
+GSE211221	16	Multi-omic colon organoid analysis highlight MSH4 as a marker of Lynch syndrome and microsatellite instability [RNA-sequencing]	GSE211221_counts.csv.gz
+GSE232110	16	Biomarkers of colorectal precancerous lesions	GSE232110_Table_Gene_TPM_levels.txt.gz
+GSE234615	16	Transcriptome analyses by RNA-seq with NELFE knockdown and EPZ-5676 or HMBA treated HCT116 cells	GSE234615_read_count.txt.gz
+GSE275391	16	Nonpathogenic E. coli displaying decoy-resistant IL18 mutein enhance the efficacy of cancer immunotherapies	GSE275391_gene_count1.txt.gz
+GSE278405	16	Phenotypic plasticity and increased tissue infiltration of TREM1+ mono-macrophages following radiotherapy in rectal cancer. [RNA-Seq]	GSE278405_All-counts.txt.gz
+GSE306289	16	Human ZBP1 Is a Potent Inducer of RIPK1-Dependent Cell Death Through Mechanisms Divergent from Mouse ZBP1 [human]	GSE306289_HT29_gene.count.matrix.annotation.txt.gz
+GSE309969	16	Proteasome activity maintains cell type-specific gene expression	GSE309969_RawCountFile_filtered.txt.gz
+GSE86221	16	Total RNA-seq from HCT116, MCF7 and SJSA cell lines treated with DMSO and Nutlin	GSE86221_HTSeq_intersection-nonempty_counts.tab.gz
+GSE107748	15	A gene expression signature for NOTCH receptor activation	GSE107748_genecounts_rawlog2.txt.gz
+GSE113581	15	Determining effects of microbial metabolite, Urolithin A on colon epithelial cells	GSE113581_genes.fpkm_table.txt.gz
+GSE195994	15	Elevated ATGL in colon cancer cells and cancer stem cells promotes metabolic and tumorigenic reprogramming reinforced by obesity	GSE195994_HT29_adherent-Con_vs_HT29-Colonospheres-Con_gene_expressionCounts.txt.gz
+GSE220285	15	Transcriptomic analysis of colorectal cancer cells treated with Oil Production Waste Products (OPWPs) reveals enrichment of pathways of mitochondrial functionality	GSE220285_TPM_all_samples.txt.gz
+GSE231560	15	Alternative splicing at a broad spectrum of target genes underlie epithelial to mesenchymal plasticity, metastatic dissemination, and resistance to chemotherapy in high-grade serous ovarian cancer.	GSE231560_OV90_TPM1.counts.txt.gz
+GSE242786	15	Molecular differentiation between complete and incomplete responders to neoadjuvant therapy in rectal cancer	GSE242786_raw_counts.txt.gz
+GSE252529	15	Establishment of interpretable cytotoxicity prediction models using machine learning analysis of transcriptome features	GSE252529_Raw_gene_counts_matrix.txt.gz
+GSE300621	15	Transcriptomic analyses of PDX tumors (QQX-09) to gain insight into the mechanisms underlying FOLFOXIRI-induced DTP state.	GSE300621_1_genes_fpkm_expression.txt.gz
+GSE72577	15	Circular RNAs are down-regulated in KRAS mutant colon cancer cells and can be transferred to exosomes	GSE72577_gene-counts.txt.gz
+GSE132868	14	RelA mutants 'reconstituted' and cell cycle synchronized HCT116 Colorectal Cancer Cells	GSE132868_RelA_reconstitued_FPKM.csv.gz
+GSE208310	14	Spontaneous metastasis xenograft models link CD44 isoform 4 to angiogenesis, hypoxia, EMT and mitochondria-related pathways in colorectal cancer	GSE208310_counts.tsv.gz
+GSE218999	14	Plasma Multi-omics Nucleic Acid Landscape of Gastrointestinal Cancer [long RNA PBMC]	GSE218999_PBMC_featurecount_intron_spanning.txt.gz
+GSE224773	14	Pooled CRISPR Screening Identifies P-Bodies as Repressors of Cancer Epithelial-Mesenchymal Transition [RNA-seq]	GSE224773_TPM.txt.gz
+GSE244082	14	several colorectal cancer patient derived tumor organoid RNAseq data	GSE244082_gene_count_matrix_1_.csv.gz
+GSE247742	14	RNA sequencing of sort-purified ILC3s from IBD patients	GSE247742_gene_counts.txt.gz
+GSE289583	14	Baseline tumor features and peripheral blood immune dynamics that underlie efficacy in MSS metastatic colorectal cancer treated with regorafenib, ipilimumab, and nivolumab	GSE289583_raw_counts_All_samples_RIN_Biopsy.txt.gz
+GSE316039	14	Downregulation of MGST3 promotes colorectal cancer progression	GSE316039_gene_rep_fpkm.txt.gz
+GSE110536	13	Active BRAF-V600E is the key player in generation of a sessile serrated polyp-specific DNA methylation profile (RNA-seq data set)	GSE110536_RNASeq_gene_counts.txt.gz
+GSE209535	13	miRNA-483-3p overexpression unleashes invasive growth of metastatic colorectal cancer via NDRG1 downregulation and ensuing activation of the ERBB3/AKT axis	GSE209535_mir264.RAW.counts.txt.gz
+GSE250483	13	Discovery of novel circular RNAs through integration of short- and long-read RNA sequencing	GSE250483_WUSTL_cell_lines_and_patients_long_read_CIRI_long_circRNA_count.csv.gz
+GSE255122	13	Cancer-associated fibroblasts reveal aberrant DNA methylation across different types of cancer [RNA-seq]	GSE255122_salmon.merged.gene_counts.tsv.gz
+GSE310492	13	ADH1C downregulation is a key hypoxia response in colon epithelium	GSE310492_RNA_Seq_Ischemic_Colitis_normalized_counts.csv.gz
+GSE108989	12	Lineage tracking reveals dynamic relationships of T cells in colorectal cancer	GSE108989_CRC.TCell.S11138.count.txt.gz
+GSE115305	12	Self-associated molecular patterns mediate cancer immune evasion by engagement of Siglec receptors	GSE115305_siglec9_counts_all.txt.gz
+GSE116087	12	A role for p53 in the adaptation to glutamine starvation through the expression of Slc1a3	GSE116087_FPKM_Matrix.tsv.gz
+GSE123807	12	Combined MEKi (GDC-0973) and WNT (G007-LK) treatment in APC and KRAS mutant HCT-15 cell line	GSE123807_HCT-15-combination-treatment-Counts.txt.gz
+GSE126311	12	DNMT3B has oncogenic activity but evidence suggests that it does not promote CIMP nor cooperate with activated BRAFV600E in human intestinal cancer. (RNA-Seq)	GSE126311_FPKM_Matrix.csv.gz
+GSE128748	12	RNA-seq analysis of dolastatin 15 treatment in HCT116 cells	GSE128748_gene_expr_fpkm.txt.gz
+GSE136011	12	NRF2 signalling associated with radioresistance in colorectal cancer models	GSE136011_P180572_correct_featurecounts_dedup.txt.gz
+GSE140984	12	The role of the Calcium-Sensing receptor in colorectal cancer	GSE140984_raw_gene_counts.tsv.gz
+GSE142314	12	PRMT1 inhibition induces differentiation of colon cancer cells	GSE142314_countsMatrix_normalized.csv.gz
+GSE145249	12	Transcriptional reprogramming of cancer cells upon loss of the PPM1G/PP2Cγ phosphatase	GSE145249_4sUseq_countTable.txt.gz
+GSE145428	12	Reducing metastases stiffness by targeting fibroblasts improves therapeutic outcome in colorectal cancer [Cells]	GSE145428_countMatrix_cell.txt.gz
+GSE157894	12	Next Generation Sequencing Facilitates Quantitative Analysis of Cystine-regulated Transcriptomes	GSE157894_1_genes_fpkm_expression.txt.gz
+GSE158591	12	NUDT21 regulates intron detention of the SAM synthetase MAT2A RNA	GSE158591_Ref0009_hg19_13Mar20_Gene-counts.txt.gz
+GSE161706	12	MAT2A inhibitor in cancer cell lines	GSE161706_dexseq_count.py.gz
+GSE162561	12	Adipose stromal cell niche reprograms the colorectal cancer stem cell metastatic machinery	GSE162561_raw_counts.txt.gz
+GSE178698	12	RNA sequencing of chronically damage human colon organoids via Air-liquid interface submergence	GSE178698_GEO_Steiner_RNAseq_raw_counts_matrix.txt.gz
+GSE180948	12	RNA-Seq based transcriptome analysis of colorectal cancer cells in response to lactate treatment	GSE180948_All.counts.txt.gz
+GSE197576	12	RNA-seq of ITPR3 and RELB knockout in SW480 under normoxia and hypoxia	GSE197576_raw_gene_counts_matrix.tsv.gz
+GSE202073	12	EHF and CDX1 co-operate to drive extensive transcriptional reprogramming and chromatin remodelling in CRC cells [RNA-seq]	GSE202073_Supp_Raw_Counts.txt.gz
+GSE202189	12	SPT6 functions in transcriptional pause-release via PAF1C recruitment [RNA-seq]	GSE202189_RNAseq_rawCounts.csv.gz
+GSE204749	12	RNA Polymerase I activity prevents terminal differentiation and growth arrest in colorectal cancer and induce vulnerability for senolytics	GSE204749_RNAseq_rawcount_matrix_all_conditions.txt.gz
+GSE208345	12	Effect of condensate perturbing CR3 peptide on HCT116 gene expression	GSE208345_CondensatePerturbation_featureCounts_deseq2.txt.gz
+GSE215849	12	Targeting MUC1-C sensitizes colorectal cancer cells to BRAF inhibitor	GSE215849_LS411NBR_Gene_TPM.csv.gz
+GSE216610	12	P-TEFb promotes cell survival upon p53 activation by suppressing intrinsic apoptosis pathway	GSE216610_gene_counts.tsv.gz
+GSE223118	12	Hypoxia-induced cysteine metabolism reprogramming are crucial for the tumorigenesis of colorectal cancer [HCT116]	GSE223118_MJ20201126201-gene.count.matrix.annot.txt.gz
+GSE226549	12	Resveratrol attenuates the mitochondrial RNA-mediated cellular response to immunogenic stress	GSE226549_gene_count_matrix_OA.csv.gz
+GSE232944	12	Effect of WNT hyperactivation by CTNNB1 overexpression or APC knockdown on gene expression in HT29 cells	GSE232944_STAR_Gene_TPM.csv.gz
+GSE239681	12	BET protein-dependent E2F pathway confers bell-shaped type resistance to tankyrase inhibitors in APC-mutated colorectal cancer [RNA-seq]	GSE239681_raw_count_JC73andJC73_RK100.csv.gz
+GSE240744	12	Distinct contributions of EMT states to colorectal cancer ferroptosis	GSE240744_1_genes_fpkm_expression.txt.gz
+GSE245402	12	Effect of lysosomal alkalinization on nutrient-rich and nutrient-depleted Caco-2 cells	GSE245402_raw_counts.txt.gz
+GSE245860	12	YTHDC1 affects the ubiquitination level of RAD51 by negatively regulating UBE3A expression and inhibits colorectal cancer cells apoptosis	GSE245860_all_counts.csv.gz
+GSE246896	12	EGFR is a target of the tumor suppressor E3-ligase FBXW7	GSE246896_readcounts_raw.csv.gz
+GSE247900	12	Lipid-restricted culture media reveals unexpected cancer cell sensitivities	GSE247900_TPM.txt.gz
+GSE252753	12	Short-chain fatty acids propionate and butyrate control growth and differentiation linked to cellular metabolism [RNA-Seq]	GSE252753_SW480_prop_counts.matrix.gz
+GSE255344	12	KMT9 is an actionable target in muscle-invasive bladder cancer	GSE255344_Count_table_bladder_Cal29.txt.gz
+GSE256114	12	DNA hypomethylation promotes UHRF1- and SUV39H1/H2-dependent crosstalk between H3K18ub and H3K9me3 to reinforce heterochromatin states	GSE256114_cpm_counts_genenames.txt.gz
+GSE261205	12	A network-based framework to discover treatment-response-predicting biomarkers for complex diseases	GSE261205_reprocell_12_samples_fpkm.csv.gz
+GSE261294	12	Study of the transcriptomic changes induced by Aurora A inhibition in the colorectal cancer cell line C10	GSE261294_rawcounts_C10.tsv.gz
+GSE264157	12	Effect of stable genetic ablation and pharmacological inhibition of SMYD3 on gene expression in CRC cell line (HCT-116)	GSE264157_Cell_lines_rawcounts.txt.gz
+GSE264565	12	Development of a First-in-Class DNMT1/HDAC Inhibitor with Improved Therapeutic Potential and Potentiated Antitumor Immunity	GSE264565_all_gene_counts.txt.gz
+GSE265950	12	N-glycans in non-malignant tumor microenvironment cells dampen CAR-T cell function in solid tumors [RNA-Seq]	GSE265950_genes.counts.txt.gz
+GSE268603	12	Transport of perfluoroalkyl substances across human induced pluripotent stem cell-derived intestinal epithelial cells in comparison with primary human intestinal epithelial cells and Caco-2 cells	GSE268603_normalized_counts.txt.gz
+GSE268979	12	PTEN depletion reduces global levels of H3K27me3 to promote epithelial-to-mesenchymal transition in epithelial colorectal cancer cells [RNA-seq]	GSE268979_STAR_count_matrix.csv.gz
+GSE276623	12	Human RNaseH2 subunit upregulation counteracts oncogene- and chemotherapy-induced replication stress	GSE276623_Raw_counts.txt.gz
+GSE280311	12	Characterization of immune cell populations in the tumor microenvironment of colorectal cancer using high definition spatial profiling [Flex]	GSE280311_count_feature_reference.csv.gz
+GSE280645	12	RNF26 promote the proliferation and metastasis of colorectal cancer cells via Wnt pathway	GSE280645_tpm.txt.gz
+GSE281613	12	Microbial metabolite ammonia disrupts CEACAM1-TGF-β signaling to promote colon cancer	GSE281613_fpkm_C_vs_T_vs_N_vs_NT.txt.gz
+GSE281727	12	Gene expression analysis of Subperitoneal Fibroblast (SPF) by knockdown of Transgelin.	GSE281727_TPM_Matrix_ann.txt.gz
+GSE282925	12	DNA hypomethylation promotes UHRF1- and SUV39H1/H2-dependent crosstalk between H3K18ub and H3K9me3 to reinforce heterochromatin states [RNA-Seq]	GSE282925_SUV39H1KD_DNMT1i_raw_counts.tsv.gz
+GSE283752	12	Differential unfolded protein response regulation in KRAS silencing sensitive versus innately resistant colorectal cancer cells [SW480 and SW837]	GSE283752_SW480_SW480Deseq_counts.csv.gz
+GSE284657	12	lncSLERT promotes liver metastasis in colorectal cancer by down-regulating HUNK expression via RBM15-mediated m6A modification	GSE284657_total_count.txt.gz
+GSE285638	12	The DNA-PKcs/JNK/p53 pathway underlies changes in cell fate decision toward death during DNA replication catastrophe	GSE285638_salmon.merged.gene_counts.tsv.gz
+GSE285698	12	DNA topological regulation by topoisomerase IIβ-DNA-PK interaction is important for controlled hypoxia-inducible gene expression [RNA-Seq]	GSE285698_raw_counts.txt.gz
+GSE289746	12	Combined therapy with DR5- targeting antibody-drug conjugate and CDK inhibitors as a novel strategy for advanced MSS and MSI-H colorectal cancer	GSE289746_gene_fpkm.txt.gz
+GSE296448	12	Glycerol-3-Phosphate Dehydrogenase 1-Like serves as a tumor suppressor in colorectal cancer through ATF3-mediated ferroptosis	GSE296448_FPKMs_all_Samples_KD.txt.gz
+GSE298808	12	Synergistic effects of 5-Fluorouracil in combination with Salinomycin promoted ferroptosis via inhibiting SLC7A11/GPX4 in Colorectal Cancer	GSE298808_gene.count.matrix.annot.txt.gz
+GSE301888	12	Effects of UBE2S on colorectal cancer cell line RKO	GSE301888_gene_count_exp.annotation.txt.gz
+GSE302922	12	Phase I/II trial of encorafenib, cetuximab, and nivolumab in microsatellite stable, BRAFV600E metastatic colorectal cancer [dataset 2]	GSE302922_Tissue_count_coding.csv.gz
+GSE304081	12	3D collagen high-throughput screen identifies drugs that induce epithelial polarity and enhance chemotherapy response in colorectal cancer	GSE304081_RNAseq_human.proteincoding.count.txt.gz
+GSE305020	12	Smoking promotes the progression of colorectal cancer via CKAP2L/STAT3/AREG/EGFR axis	GSE305020_HCT116_tpm.xls.gz
+GSE308351	12	A Tale of Two Cell Lines: Characterization of differential efficacy of small molecule drugs cediranib and NU-7441 on primary vs. metastatic colorectal cancer	GSE308351_raw_counts.csv.gz
+GSE308712	12	Effects of overexpression of HKDC1 on gene expression in two colon cancer cells.	GSE308712_counts2_all_samples.csv.gz
+GSE310036	12	Transcriptomic profiling of HCT116 and HT29 colorectal cancer cells after piR-37524 inhibition	GSE310036_all.fpkm_anno.txt.gz
+GSE312098	12	Overcoming ADC resistance in advanced colorectal cancer by dual targeting of TROP2 and PERK to suppress Wnt/β-catenin signaling [TROP2+GSK RNA-Seq]	GSE312098_gene_fpkm.txt.gz
+GSE315227	12	RNA-seq data of PEPD over-expressed vs NC GBM cells	GSE315227_all_gene_count.txt.gz
+GSE324133	12	Phosphorylation-driven targeted protein degradation of oncogenic β-catenin	GSE324133_LW_tpm_counts.txt.gz
+GSE327208	12	Control of Cellular Differentiation Trajectories for Cancer Reversion	GSE327208_HCT116_count.tsv.gz
+GSE327488	12	Mutual interaction between Schwann cells and CD4+T cells promotes the progression of perineural invasion in colorectal cancer [RNA-seq]	GSE327488_gene_fpkm.txt.gz
+GSE329052	12	MEK inhibition induces persistent growth arrest through Wnt hyperactivation in KRAS wild-type colorectal cancer	GSE329052_all.normalised_counts.tsv.gz
+GSE336319	12	ZFP36L2 orchestrates stress-adaptive plasticity in intestinal regeneration and colorectal cancer metastasis (bulk RNAseq)	GSE336319_MSK107LI_dedifferentiation_ctrl_vs_KO_counts.csv.gz
+GSE344104	12	Epithelial Tissue Architecture Acts as a Barrier to Carcinoma Initiation	GSE344104_raw_counts_All_Samples.txt.gz
+GSE346114	12	Clinical and functional profiling nominates melanoma as a priority indication for GPNMB CAR T cell therapy	GSE346114_RSEM_gene_TPM.csv.gz
+GSE86179	12	Knockdowns of total NFYA and a NFYA long 3’ UTR isoform followed by RNA-seq to determine isoform-specific effects on gene expression	GSE86179_NfyaKdRnaSeq_Counts.csv.gz
+GSE86219	12	RNAseq from polysomal RNA harvested from HCT116, MCF7 and SJSA cell lines treated with DMSO and Nutlin	GSE86219_HTSeq_intersection-nonempty_counts_polysomal_only.tab.gz
+GSE152258	11	Non-canonical immune response to inhibition of DNA methylation via stabilization of dsRNAs from endogenous retroviruses	GSE152258_Whole_Rawcount_siLuc_DMSO_vs_siStau_DAC.txt.gz
+GSE304110	11	Stress-Survival Pathway Profiling Reveals MCM10 as a Candidate Biomarker of Hispanic Colorectal Cancer Disparities	GSE304110_gene_count.txt.gz
+GSE308900	11	Mechanism Study of Ganoderma Triterpenoid Extracts Inhibiting Colon Cancer Stemness and Migration Capacity	GSE308900_readcount.txt.gz
+GSE310282	11	RNAseq of colonic epithelial and lamina propria-derived Tregs	GSE310282_combined_raw_counts.txt.gz
+GSE132257	10	Single cell RNA sequencing of colorectal cancer with diverse tissue dissociation protocols or fresh vs. frozen cell preparations.	GSE132257_GEO_processed_protocol_and_fresh_frozen_raw_UMI_count_matrix.txt.gz
+GSE143263	10	Thousands of novel unannotated proteins expand the MHC I immunopeptidome in cancer	GSE143263_riboseq.tpm.txt.gz
+GSE149224	10	Transcriptome landscape of DNA-damage response at single-cell resolution	GSE149224_RSH.all.counts.txt.gz
+GSE211804	10	FIT Links c-Myc and P53 Acetylation by Recruiting RBBP7 During Carcinogenesis of Colorectal Cancer	GSE211804_Raw_gene_counts_matrix.txt.gz
+GSE261717	10	Effect of fructose on human colon DNA methylation: implication for racial disparities in colorectal cancer risk	GSE261717_RawCounts.csv.gz
+GSE288583	10	Identification of a novel intracellular function of the secreted ribonuclease RNASE1 in inhibiting gene expression	GSE288583_RawCountFile_rsemgenes.txt.gz
+GSE311016	10	Overcoming ADC resistance in advanced colorectal cancer by dual targeting of TROP2 and PERK to suppress Wnt/β-catenin signaling	GSE311016_gene_fpkm.txt.gz
+GSE311632	10	Peristaltic forces drive tumor cell invasion in colorectal cancer [bulk RNA-seq]	GSE311632_bulk_RNA_normalized_counts.csv.gz
+GSE315014	10	DOT1L-mediated CDK9 methylation is essential for DNA double-strand break repair [RNA-seq]	GSE315014_RNAseq_FPKM_shCDK9_K56A.txt.gz
+GSE319745	10	DNMT1 loss leads to hypermethylation of a subset of late replicating domains by DNMT3A (RNA-seq)	GSE319745_HCT116_rep_4_RNA_seq_counts.txt.gz
+GSE335477	10	Westernized diet related arachidonic acid metabolism expands DNA error-prone growth factor-dependent colonic quiescent stem cells in adolescent mice	GSE335477_TPMs_all_samples.txt.gz
+GSE92432	10	An optimization system for isolating and sequencing of single human colon cancer cells	GSE92432_gene_count_matrix.csv.gz
+GSE99897	10	Comparison of rectal patient data separated by their event of developing distant metastasis [RNA-Seq]	GSE99897_expected_counts_RC_data.csv.gz
+GSE106169	9	Polyol pathway links glucose metabolism to the aggressiveness of cancer cells	GSE106169_counts.txt.gz
+GSE144259	9	RNA-seq of CRC tissues	GSE144259_all.fpkm.exp.txt.gz
+GSE156082	9	Genome-scale CRISPR-Cas9 screen of Wnt/β-catenin signalling identifies therapeutic targets for Colorectal Cancer (RNA-seq)	GSE156082_DLD1_countfiles.csv.gz
+GSE182382	9	Effects of Mettl3 and Alkbh5 knockdown on total RNA	GSE182382_5600_RNA_seq.count.txt.gz
+GSE218236	9	RNAPII-dependent ATM signaling at collisions with replication forks [RNA-seq]	GSE218236_counts.txt.gz
+GSE235595	9	Structure-guided design of a selective inhibitor of the methyltransferase KMT9 with cellular activity	GSE235595_KI169Ctrl_counts_edgeR.txt.gz
+GSE245617	9	The adhesin RadD enhances Fusobacterium nucleatum tumor colonization and colorectal carcinogenesis	GSE245617_sample_normalized_count_with_symbol.txt.gz
+GSE253804	9	Inherited KDM6AA649T facilitates tumor-immune escape and exacerbates colorectal signet-ring cell carcinoma outcomes	GSE253804_All.gene_fpkm.txt.gz
+GSE255129	9	Enterohemorrhagic Escherichia coli effector EspF triggers oxidative DNA lesions in intestinal epithelial cells	GSE255129_allsamples_gene_fpkm.txt.gz
+GSE267317	9	Fusobacterium nucleatum upregulates the immune inhibitory receptor PD-L1 in intestinal epithelial cells via the activation of ALPK1	GSE267317_combined_counts_symbol.csv.gz
+GSE268199	9	Proteasome inhibition induces alteration of DNA methylation profile by attenuating the synthesis of DNA methyltransferase 1 and 3B in colorectal cancer	GSE268199_HT29.raw.count.matrix.gz
+GSE272456	9	Mitochondrial metabolism is a key determinant of chemotherapy sensitivity in Colorectal Cancer (HCT116)	GSE272456_PN0129B_HCT116_raw_counts.txt.gz
+GSE279572	9	Candida albicans drives colorectal cancer progression by inducing hypoxia signaling	GSE279572_HCT116.raw.count.matrix.gz
+GSE284670	9	An Anaerobic In Vitro Flow Model for Studying Interactions at the Gastrointestinal Host-Microbe Interface	GSE284670_featureCounts_report.csv.gz
+GSE292379	9	RNAseq analysis of streptomycin on SW620 colon cancer cell line	GSE292379_David_Raw_Counts.txt.gz
+GSE293576	9	Partial truncation of the C-terminal domain of PTCH1 in cancer promotes tumorigenesis by non-canonical activation of GLI transcriptional activity.	GSE293576_quantification_gene_fpkm.txt.gz
+GSE310085	9	Sulforaphane Inhibits Colorectal Cancer Progression via PI3K/AKT/mTOR and HIF-1α Suppression with Enhanced Efficacy under Hypoxia	GSE310085_FPKM_all_samples.txt.gz
+GSE313460	9	Effects of phytogalactolipids on drug-resistant colorectal cancer	GSE313460_Original_read_count.txt.gz
+GSE333995	9	IGFBP5 Derived From Endothelial Cells Drive Vascular Invasion and Liver Metastasis of Colorectal Cancer by Activating the ITGB3/PI3K/AKT Axis	GSE333995_fpkm_sample.xls.gz
+GSE72955	9	Retroviral Replicating Vectors Deliver Cytosine Deaminase Leading to Targeted 5-FU-Mediated Cytotoxicity in Multiple Human Cancer Types	GSE72955_HTSEQ_counts.txt.gz
+GSE98922	9	Treatment of SW480 colon cancer cell induced xenografts with AZD and DBZ	GSE98922_counts.txt.gz
+GSE107605	8	Role of differential mRNA processing by oncogenic KRAS in colon cancer	GSE107605_countsSplicing.csv.gz
+GSE108834	8	TIP60 represses activation of endogenous retroviral elements	GSE108834_transposable_elements_log_normalized_counts.csv.gz
+GSE112568	8	Gene Expression Profiling of Estrogen Signaling in Colon Cancer Cell Line [CRC Project_addendum]	GSE112568_count_table_CRC_C_Williams_Addendum.txt.gz
+GSE116631	8	SFPQ depletion is synthetically lethal with BRAFV600E in colorectal cancer cells I	GSE116631_count_table_full.tsv.gz
+GSE135458	8	A precisely positioned MED12 activation helix stimulates CDK8 kinase activity	GSE135458_abundance_in_est.counts.txt.gz
+GSE149370	8	SFPQ depletion is synthetically lethal with BRAFV600E in colorectal cancer cells II	GSE149370_normCounts_DESeq2_96h_SFPQkd.tsv.gz
+GSE151934	8	TCF7L2 silencing results in altered gene expression patterns accompanied by local genomic reorganization	GSE151934_SW480_TCF7L2_RSEM_TPM.txt.gz
+GSE154429	8	Endogenous miRNA-200b/c activity and regulation explored by a functional dual fluorescence reporter	GSE154429_gene_FPKM_matrix.csv.gz
+GSE165814	8	Dysregulation of ILC3s unleashes progression and immunotherapy resistance in colon cancer	GSE165814_gene_counts.tsv.gz
+GSE169213	8	Escherichia coli alpha-hemolysin HlyA induces host cell polarity changes, epithelial barrier dysfunction and cell detachment in human colon carcinoma Caco-2 cell model via PTEN-dependent dysregulation	GSE169213_raw_counts.csv.gz
+GSE196900	8	RNA-seq profiles between human parental and 5-FU drug resistant HCT116 and SW480 colorectal cancer cell lines	GSE196900_Raw_gene_counts_matrix.txt.gz
+GSE210384	8	RNA-seq analysis of human colorectal cancer cells with NAT10 deficiency.	GSE210384_Raw_gene_counts_matrix.txt.gz
+GSE227206	8	Lipid engulfed macrophages interfere with protective T cell immunity and favor tumor progression in human colon carcinogenesis	GSE227206_Table_Expression_levels_TPM.tsv.gz
+GSE232193	8	Effect of knockdown or overexpression of CYP1B1 on gene expression during proliferation process of colorectal cancer cells (RKO and SW480).	GSE232193_Raw_gene_counts_matrix.txt.gz
+GSE232386	8	Transcriptomic analysis of tumor self-seeded cells, primary tumor cells, and circulating tumor cells in liver cancer	GSE232386_raw_counts_allsamples.txt.gz
+GSE244319	8	Oxidative phosphorylation inhibition with IACS-010759 treatment in colorectal cancer cells	GSE244319_raw_counts.txt.gz
+GSE245680	8	Pien Tze Huang induces reactive oxygen species to inhibit colorectal cancer growth	GSE245680_raw_count.txt.gz
+GSE248373	8	Jiedu Xiaozheng Yin extract targets cancer stem cell signaling and inhibits patient-derived organoid and xenograft tumor growth in colorectal cancer	GSE248373_genes.rawcount.anno.txt.gz
+GSE249954	8	KRAS inhibition impacts chromatin organization and transcriptional performance in colorectal cancer cells [HCT116 RNA-seq]	GSE249954_All_Samples_Counts.csv.gz
+GSE250117	8	KRAS inhibition impacts chromatin organization and transcriptional performance in colorectal cancer cells [LS174T RNA-seq]	GSE250117_All_SamplesLS_Counts.csv.gz
+GSE250118	8	KRAS inhibition impacts chromatin organization and transcriptional performance in colorectal cancer cells [SW480 RNA-seq]	GSE250118_All_SamplesSW_Counts.csv.gz
+GSE266321	8	The BAF complex enhances transcription through interaction with H3K56ac in the histone globular domain	GSE266321_TPM_df.tsv.gz
+GSE272835	8	A novel USP4 inhibitor suppresses colorectal cancer stemness and enhances chemotherapy sensitivity by promoting the degradation of β-catenin and Twist1	GSE272835_raw_counts.txt.gz
+GSE280367	8	Mesenchymal Colorectal Cancers Secrete Vesicles With Unique Cargo That Can Be Used For Liquid Biopsy Based Diagnostics [RNA-seq]	GSE280367_tpm.txt.gz
+GSE280633	8	The function and mechanisms of hsa_circCDKN2B-AS_012 on tumor suppression of Colorectal cancer	GSE280633_gene_tpm.addAnno.txt.gz
+GSE283029	8	Sequencing data of AQP2-specific inhibitor Steviol against colorectal cancer	GSE283029_raw_counts.txt.gz
+GSE290123	8	Comprehensive Transcriptomic Analysis of DLD1 Colon Cancer Cells Overexpressing TRMT6 and TRMT61A Genes [RNA-seq]	GSE290123_All.count.txt.gz
+GSE294823	8	A plastic EMP1⁺ to LGR5⁺ cell state conversion as a therapeutic bypass to KRAS-G12D inhibition in metastatic colorectal cancer [RNA-Seq human]	GSE294823_raw_counts_All_samples.txt.gz
+GSE297244	8	Comprehensive Transcriptome Profiling Unveils the Oncolytic Mechanisms of Newcastle Disease Virus on Colonic Carcinoma	GSE297244_raw_counts_All_Samples.txt.gz
+GSE305053	8	mtROS-driven Sp1-dependent retrograde signaling promotes colorectal tumor progression via SIRT3-PAGM5 axis-governed mitochondrial homeostasis	GSE305053_gene_count_matrix.txt.gz
+GSE309532	8	SPOCK1 activates Wnt/β-Catenin signaling to drive colorectal cancer stemness and progression	GSE309532_counts.csv.gz
+GSE326394	8	Genome-wide identification of vitamin D receptor–regulated enhancer RNAs reveals epigenetic regulation of CYP24A1 transcription	GSE326394_consensusClusters_expression_count_annot.txt.gz
+GSE338053	8	3-Hydroxyanthranilic acid suppresses colorectal cancer growth and enhances 5-fluorouracil sensitivity via the YY1–p53 and YY1–DKK4 axes [RNA-Seq 3HAA_5FU_HCT116]	GSE338053_3HAA_5FU_FPKM_anno.xls.gz
+GSE347194	8	Transcriptomic profiling of HT29 colorectal cancer cells treated with indole-3-pyruvic acid	GSE347194_HT29_IPyA_normalized_counts.txt.gz
+GSE167249	7	Transcriptional profiling of Caco2 cells infected with Encephalitizoon intestinalis	GSE167249_2020_0127_Normalized_Counts_Microsporidia_Caco2_.txt.gz
+GSE241659	7	Efficient genetic editing of human intestinal organoids using ribonucleoprotein-based CRISPR	GSE241659_counts_normalised.tsv.gz
+GSE113856	6	TGF-β promotes the conversion of human CD5low cDC2s to tolerogenic CD5high cDC2s	GSE113856_SalmonGenesTPM.csv.gz
+GSE118490	6	Transcriptomic analysis of trametinib-resistant HCT116 colorectal carcinoma cells compared to the parental control cells	GSE118490_C53_HCT116_Normalised_Counts.txt.gz
+GSE121043	6	Integrated multi-omics approach reveals a role of ALDH1A1 in lipid metabolism in human colon cancer cells	GSE121043_gene-fpkm-table-replicates.txt.gz
+GSE121454	6	A comprehensive transcriptome portrait of colorectal cancer derived organoid at single cell levels (Bulk RNA-seq)	GSE121454_Colon_Organoid_FH535_FPKM.txt.gz
+GSE124993	6	Genome-wide profiling of mutant p53 unveils a subset of lncRNAs correlated with colorectal cancer stemness maintenance [RNA-seq]	GSE124993_gene_counts.txt.gz
+GSE125648	6	RNA-sequencing analysis for gene expression profiles affected by CASC9 knockdown	GSE125648_4_genes_fpkm_expression.txt.gz
+GSE126504	6	Next Generation Sequencing Facilitates Quantitative Analysis of SW480 cells and HPSE-knockdown SW480 cells Transcriptomes	GSE126504_gene.normalizedcount.txt.gz
+GSE128257	6	RNA-seq of RKO cells with cTAZ KO or putback	GSE128257_all.fpkm.exp.txt.gz
+GSE128998	6	SNHG15 is a bifunctional MYC-regulated noncoding locus encoding a lncRNA that promotes cell proliferation, invasion and drug resistance in colorectal cancer by interacting with AIF	GSE128998_RNAseq_counts.matrix.txt.gz
+GSE130169	6	Effect of SMYD3 on MCF7 breast cancer cells (RNA-seq)	GSE130169_raw_count_matrix.txt.gz
+GSE149426	6	Overexpression of CYGB led to differential gene expression in HCT116 cells (RNA-seq)	GSE149426_trans.rawcount.anno.txt.gz
+GSE151069	6	Generation of an in vitro 3D Engineered Colorectal Cancer Patient-Derived Xenograft Model	GSE151069_htseq-gene_counts_1003.txt.gz
+GSE156221	6	Anti-cancer activity of Cotyledon orbiculata extract	GSE156221_Ensembl_Gene_Expression_Counts.txt.gz
+GSE159353	6	EphA2-SE-KO RNA-seq	GSE159353_Raw_gene_counts_matrix.txt.gz
+GSE172201	6	ZKSCAN3 knockout HCT116 colorectal cancer cell line	GSE172201_Raw_gene_counts_for_every_genes.txt.gz
+GSE178862	6	Downregulation of iNOS/NO Promotes Epithelial-Mesenchymal Transition and Metastasis in Colorectal Cancer	GSE178862_Gene_count.csv.gz
+GSE181011	6	Only the loss-of-function but not the gain-of-function properties of mutant TP53 are critical for the sustained proliferation, survival and metastasis of a broad range of cancer cells [colon cancer]	GSE181011_Counts_all_samples.txt.gz
+GSE181817	6	Atlas of Clinically Distinct Cell States and Cellular Ecosystems Across Human Solid Tumors	GSE181817_TPM_spindly_foamy_MACs.txt.gz
+GSE182086	6	Treatment of HCT116 cells with a small molecule inhibitor of ß-catenin/BCL9 interaction	GSE182086_Gene_TPM.csv.gz
+GSE182257	6	RNA-seq of ITPR3 knockout in SW480 colorectal cancer metastases	GSE182257_raw_gene_counts_matrix.tsv.gz
+GSE182942	6	ARL4C remarkably promotes the tumorigenesis of Uveal Melanoma and may represent a potential therapeutic target	GSE182942_genes_fpkm_expression.txt.gz
+GSE191323	6	Characterization  of normal fibroblast transcriptomes upon transient silencing of LTBP2 by RNAseq	GSE191323_LTBP2_raw_counts.txt.gz
+GSE192400	6	Gene expression of THP-1 macrophages co-cultured with F. nucleatum under iron-deficient and iron-overload conditions	GSE192400_gene_count_matrix.csv.gz
+GSE193865	6	Increased CD44 expression in low-dose chemotherapeutic treated colon cancer cells is controlled by ELF3	GSE193865_gene_count.txt.gz
+GSE200064	6	RNA-seq for TCF21 overexpressing tumor pericytes	GSE200064_4_genes_fpkm_expression.txt.gz
+GSE203017	6	Genomic alterations drive brain metastases formation in colorectal cancer: The role of IRS2	GSE203017_norm_counts.csv.gz
+GSE203120	6	Chemical genomic screen identifies SP2509, WT hTERT specific repressor in colorectal cancer	GSE203120_raw_counts.tsv.gz
+GSE204973	6	Next generation sequencing to identify PNISR regulating alternative splicing in CRC	GSE204973_All.counts.txt.gz
+GSE207709	6	Effect of PLOD3 on the progression of colorectal cancer	GSE207709_4_genes_fpkm_expression.txt.gz
+GSE209869	6	Effect of overexpression of ELAPOR1 on gene expression of colorectal cancer cells	GSE209869_all.fpkm_anno.txt.gz
+GSE214030	6	Molecular dynamics and experimental verification studies of the mechanism of dihydroartemisinin in the treatment of colorectal cancer	GSE214030_Processed_data_files_FPKM_and_reads_count.xls.gz
+GSE219181	6	LncRNA EPR transcriptional activity controls intestinal mucus and prevents susceptibility to inflammation and tumorigenesis SW480 [RNA-Seq]	GSE219181_all_counts.txt.gz
+GSE219194	6	SND1 is a novel regulator of endothelial function	GSE219194_SN_Raw_Readcount.txt.gz
+GSE222521	6	Pan-cancer analysis revealed H3K4me1 at bivalent promoters premarks DNA hypermethylation during tumor development and identified the regulatory role of DNA methylation in relation to histone modificat	GSE222521_samlon_hg38v36_rowCount.tsv.gz
+GSE224869	6	Effects of DAB2IP expression on gene expression in DLD1  cells	GSE224869_DLD1_LACZ_DAB2IP_TPM.csv.gz
+GSE227315	6	RNA-Seq of Oxaliplatin-treated HCT116 human colon cancer cells	GSE227315_HCT116_Oxa24h_Raw_Norm_counts.txt.gz
+GSE229613	6	Inhibitory effect of curcumin on colon cancer cells	GSE229613_gene_count_1.txt.gz
+GSE236691	6	CSAG1 Knock out in clone E3 from colon cancer CC14 primary culture	GSE236691_rawcounts.txt.gz
+GSE236692	6	ATP11C Knock down in clone E3 from colon cancer CC14 primary culture	GSE236692_rawcounts.txt.gz
+GSE241076	6	Inhibition of circulating glycocholic acid-regulated signaling potentiates immune checkpoint therapy in colorectal cancer	GSE241076_counts.txt.gz
+GSE241656	6	Transcriptome of DLD-1 co-cultured with or without extracellular vesicels derived from Fusobacterium nucleatum	GSE241656_gene_fpkm.xls.gz
+GSE243955	6	EZH2 Inhibition Enhances PD-L1 Protein Stability through USP22-Mediated Deubiquitination in Colorectal Cancer	GSE243955_gene_count.txt.gz
+GSE244968	6	Expression data from human colorectal cancer tissues and the corresponding non-cancerous tissues	GSE244968_genes.readcount.xls.gz
+GSE245475	6	FH enhances the therapeutic effect of PD-1 inhibitors on colorectal cancer by inhibiting the expression of PCSK9.	GSE245475_Rsubread_Counts.txt.gz
+GSE247535	6	Gene expression changes induced by overexpression of PJA2 in SW-480 cells	GSE247535_All_reads_counts.txt.gz
+GSE247894	6	HMGA1 promotes the tumorigenesis of colorectal cancer by increasing lipid synthesis	GSE247894_shNC-vs-shHMGA1.total.Gene_fpkm.matrix.xls.gz
+GSE248066	6	Total flavone of Abelmoschus manihot Lmedic inhibits the metastasis of  colorectal cancer cells via inhibition of the STAT3/EMT signaling pathway by  up-regulating LncRNAAL137782	GSE248066_genes_fpkm_expression.txt.gz
+GSE248259	6	Stabilization of mitochondrial double stranded RNAs by SLIRP promotes positive feedback amplification of antiviral signaling.	GSE248259_gene_count_matrix2_Normalized.csv.gz
+GSE250091	6	Next generation sequencing to identify GPT1 regulating signaling pathway in CRC	GSE250091_All.counts.exp.txt.gz
+GSE253699	6	The mechanism of FSTL3 in the progression of colon cancer	GSE253699_raw_counts.txt.gz
+GSE254279	6	Epigenome reprogramming through H3K27 and H3K4 trimethylation as a resistance mechanism to DNA methylation inhibition in BRAFV600E-mutated CRC. [RNA-Seq]	GSE254279_count_matrix_control_AZA-treated.csv.gz
+GSE254651	6	Blocker-SELEX: A Structure-Guided Strategy for Developing Inhibitory Aptamers Disrupting Transcription Factor Interactions	GSE254651_all.fpkm_anno.txt.gz
+GSE255745	6	S-SETMAR in the biogenesis of glioblastoma : a protective role ?	GSE255745_HTcount_SETMAR.txt.gz
+GSE260896	6	The MYB-related Transcription Factor MYPOP acts as a Selective Regulator of Cancer Cell Growth	GSE260896_geosub_mypop_countstable.txt.gz
+GSE262823	6	TIPE regulates TGFB2 expression and induces extracellular M2 polarization in CRC	GSE262823_all.fpkm_anno.xls.gz
+GSE267911	6	KAT2B-Mediated Epigenetic Suppression of RAD51C Enhances Olaparib Sensitivity in Colorectal Cancer	GSE267911_raw_counts.txt.gz
+GSE268122	6	The underlying mechanism of SCNAs-induced lncRNA LOC101927668 overexpressoin facilitating colorectal cancer progression	GSE268122_fpkm.txt.gz
+GSE268527	6	Isolation, Structure Elucidation, and Biological Activity of the Selective TACR2 Antagonist Tumonolide and its Aldehyde from a Marine Cyanobacterium	GSE268527_counts.txt.gz
+GSE273106	6	Lipid engulfed macrophages interfere with protective T cell immunity and favor tumor progression in human colon carcinogenesis - Monocyte	GSE273106_Table_Expression_levels_TPM_monocyte.tsv.gz
+GSE273457	6	Small nucleolar RNA SNORA67 regulates DLGAP5-activated Wnt pathway to promote colorectal cancer development	GSE273457_gene_count_matrix.csv.gz
+GSE273846	6	Heat Shock Transcription Factor 4 Promotes Malignant Biological Behavior in Colorectal Cancer Through Stiffness Rather Than Collagen Content.	GSE273846_mRNA_FPKM.txt.gz
+GSE276336	6	ZEB1-mediated Epithelial to Mesenchymal Transition in Colorectal cancer HT-29 cell line	GSE276336_processedCounts.txt.gz
+GSE278411	6	VGLL1 KO in colon cancer cells primary culture clone E3, clone 22	GSE278411_rawcounts.txt.gz
+GSE278412	6	Colon cancer low metastatic clone after escape of late apoptosis	GSE278412_rawcounts.txt.gz
+GSE279678	6	RBM15-mediated Metabolic Reprogramming Boosts Immune Response in Colorectal Cancer	GSE279678_RBM15_KO_FPKM.txt.gz
+GSE279979	6	Patient-derived Organoids and Xenografts Uncover Therapeutic Vulnerabilities in Colorectal Signet Ring Cell Carcinomas	GSE279979_raw_counts.txt.gz
+GSE281816	6	A Novel Microprotein, MUCP1, Mediates Succinate Transport and Promotes Colorectal Cancer Progression by Modulating Glutamine Metabolism	GSE281816_NC-vs-FLAG.count-FPKM.annot.txt.gz
+GSE282110	6	RBM47 functions as an anti-oncogene by regulating expression and alternative splicing of cell proliferation and apoptosis associated genes in colorectal cancer cells	GSE282110_expressed_gene_FPKM.txt.gz
+GSE282383	6	KLK1 prevents colorectal inflammation-cancer transformation via B1R-mediated ECM pathway	GSE282383_gene_fpkm.txt.gz
+GSE283230	6	Nuclease CAD restrains cGAS-STING signaling to inhibit radiosensitivity of colorectal cancer	GSE283230_Counts.txt.gz
+GSE284019	6	Differentially Expressed Genes Between High-Metastatic LOVO-HM and Wild-Type LOVO Colorectal Cancer Cell Lines	GSE284019_All_gene_fpkm.txt.gz
+GSE287014	6	CNOT7 Promotes Radiation Resistance in Colorectal Cancer via XRCC6-Mediated NHEJ DNA Repair Pathway	GSE287014_gene_count.txt.gz
+GSE289758	6	IGF2BP3 enhances ferroptosis resistance in colon cancer by stabilizing SLC7A11 mRNA and is regulated by miR-98-5p	GSE289758_Counts_merged_annot.tsv.gz
+GSE289818	6	Lipid droplets impair anti-tumor immunity by disrupting IFNGR1 trafficking via TGN diacylglycerol depletion	GSE289818_gene_count.txt.gz
+GSE293903	6	Synthesis of a Novel Mitochondrial Fluorescent Probe - Killing Cancer Cells in Vitro and in Vivo	GSE293903_DMSOvsWT4.all_fpkm.list.txt.gz
+GSE294201	6	TGFB1/CXCL5 Axis Regulation by LCN2 Overexpression: A Promising Strategy to Inhibit Colorectal Cancer Metastasis and Enhance Prognosis	GSE294201_4_genes_fpkm_expression.txt.gz
+GSE294276	6	Microbial Bile acid metabolite, 3-oxo-LCA, prohibits colorectal cancer progression	GSE294276_raw_counts_All_Samples.txt.gz
+GSE296923	6	The RNA-Binding Protein DDX39B Promotes Colorectal Adenocarcinoma Progression by Stabilizing DCLK1	GSE296923_gene_fpkm.txt.gz
+GSE298560	6	SMARCA3 is a histone H3K23 ubiquitin ligase that regulates H3K9me3 in cancer [RNA-Seq]	GSE298560_Table_RNAseq_HLTF_hg38_rawCounts.txt.gz
+GSE299400	6	Transcriptome alterations after CUL4A knockdown in HT-29 cells	GSE299400_gene.TPM.matrix.annot.csv.gz
+GSE299474	6	FAM72A promotes UNG2 degradation and mutagenesis in human cancer cells	GSE299474_FAM72_cell_lines_expected_count.csv.gz
+GSE301220	6	RNA-seq analysis reveals dysregulated pathways in CAFs following NPs treatment.	GSE301220_fpkm.xls.gz
+GSE303774	6	CHK2 deficiency affects the engagement of DSBs repair pathways following DNA damage	GSE303774_raw_counts.csv.gz
+GSE305039	6	Smoking promotes the progression of colorectal cancer via CKAP2L/STAT3/AREG/EGFR axis	GSE305039_HCT116-CSE_tpm.txt.gz
+GSE305943	6	GBP2 Enhances Anti–PD-L1 Response in Colorectal Cancer by Non-Pyroptotic Inhibition of GSDMD-Mediated YAP Activation	GSE305943_raw_counts_all_samples.txt.gz
+GSE308083	6	OSBPL3 Drives Colorectal Cancer Progression via Hippo-YAP Signaling and Modulates MEK Inhibitor Sensitivity	GSE308083_count.csv.gz
+GSE308265	6	Molecular Mechanisms of the MLL4 Complex in H3K4 Methylation and p53-Dependent Transcription Activation [RNA-seq]	GSE308265_MLL4KO_vs_WT_DESeq_countsraw.csv.gz
+GSE308833	6	Effect of depletion of PRSS22 on gene expression of HCT116 colorectal cancer cells	GSE308833_raw_counts.txt.gz
+GSE309210	6	Goblet cell-expressed microprotein FXYD3 determines gut homeostasis by maintaining mucus barrier integrity	GSE309210_WT_and_FXYD3_knockout_LS174T_count.csv.gz
+GSE309341	6	KRAS-ERK Signaling Drives Metastasis in Colorectal Cancer via Phosphorylation Dependent Activation of the ZBTB20-TGFBR2 Axis	GSE309341_counts_anno.txt.gz
+GSE309895	6	Autophagy orchestrates anti-tumor immunity to enhance chemo-sensitivity by upregulation of TIMP-2 through FBXW2/CEBPB axis in Colorectal Cancer	GSE309895_raw_count_TPM_Normlize_log2.csv.gz
+GSE310477	6	Inhibition of a corrupted embryonic developmental regulator reverses colon cancer to a normal-like state [TAF10_bulk_RNA]	GSE310477_TAF10_count.tsv.gz
+GSE310994	6	RNA-seq of SW620 colorectal cancer cells: control (sh-control) versus ANO1 (TMEM16A) knockdown (sh-ANO1)	GSE310994_gene_fpkm.txt.gz
+GSE311274	6	Dynamin 1 promotes colorectal cancer progression by activating the PI3K/Akt signaling pathway	GSE311274_All.ReadsCount.txt.gz
+GSE312326	6	DKC1 promotes colorectal cancer progression and therapy resistance by dysregulating sphingolipid biosynthesis	GSE312326_counts.txt.gz
+GSE312849	6	Effect of QPRT overexpression on gene expression in cancer pericyte cells	GSE312849_All_sample_counts.txt.gz
+GSE313017	6	CHTOP Regulates ROS Homeostasis to Modulate Chemoresistance in Colorectal Cancer	GSE313017_CHTOP_FPKM.txt.gz
+GSE314768	6	Transcriptomic profiling of oxaliplatin-resistant colorectal cancer cells	GSE314768_HCT116_HCT116OXR_gene_expression_counts.txt.gz
+GSE319208	6	GDPD5-CD55-EGFR Competitive Binding Axis Regulates Radioresistance and Lipid Accumulation in Rectal Cancer	GSE319208_gene.counts.matrix.txt.gz
+GSE324253	6	RNA-seq in HCT116 cells treated with coptisine	GSE324253_expression_fpkm.txt.gz
+GSE326566	6	Effect of overexpression of DDX17(P82) on gene expression in LIM1215 cells	GSE326566_mRNA_counts_matrix.txt.gz
+GSE326923	6	Integrin beta 4 promotes colorectal cancer progression by upregulating Ezrin and activating the Wnt/β-catenin signaling pathway	GSE326923_gene_fpkm_group.txt.gz
+GSE328387	6	LSD1 Attenuates Ferroptosis Sensitivity in Colorectal Cancer Cells via a Demethylase-Independent Manner: An Innovative Antitumor Strategy via Targeted Degradation of LSD1	GSE328387_gene_count_matrix.csv.gz
+GSE330032	6	Subtype-specific heterogeneity of anti-epidermal growth factor receptor antibody sensitivity in KRAS-mutant colorectal cancer revealed by patient-derived organoids	GSE330032_AllCounts_B.txt.gz
+GSE332607	6	SETD8-mediated mono-methylation of YAP at K76 promotes K48-linked polyubiquitination and degradation to suppress colorectal cancer​​	GSE332607_raw_counts_all_samples.txt.gz
+GSE333323	6	STRIP2 Stabilizes LCN2 to Suppress Ferroptosis and Drives Colorectal Cancer Malignancy	GSE333323_all.fpkm_anno.csv.gz
+GSE333629	6	An Exploratory Integrative Analysis of Plasma Transcriptomic and Proteomic Predictors of Response to Total Neoadjuvant Therapy in Locally Advanced Rectal Cancer	GSE333629_raw_counts_matrix.txt.gz
+GSE337374	6	The Oncogenic Role of Prostate Stem Cell Antigen (PSCA) in Colorectal Cancer: Implications for Targeted Therapy	GSE337374_gene_fpkm.xls.gz
+GSE338021	6	Effect of a novel genistein isoflavonoid alkaloids (GIA) on gene expression in HCT116 colorectal cancer cells under hypoxic conditions	GSE338021_1_genes_fpkm_expression.txt.gz
+GSE344100	6	Effects of 3D and 2D culture on gene expression of HCT116 cells	GSE344100_1_genes_fpkm_expression.txt.gz
+GSE346887	6	Transcriptome profiling of PAXX knockdown in HCT116 colorectal cancer cells	GSE346887_expressed_gene_FPKM.txt.gz
+GSE79395	6	Knockdown of ADNP in HCT116 colon cancer cells	GSE79395_counts.txt.gz
+GSE95542	6	Isolation and Functional Interrogation of Adult Human Prostate Epithelial Stem Cells at Single Cell Resolution	GSE95542_star_genes_erc_ensmbl.counts.txt.gz
+GSE119013	5	Effect for target mRNA degradation by methylated microRNAs	GSE119013_processed_TPM_data.txt.gz
+GSE144319	5	MUC1-c is a target for suppressing stemness in the progression of colitis and colorectal cancer	GSE144319_RawCounts.csv.gz
+GSE298630	5	A deep learning framework for the reconstruction of gene expression profiles derived from formalin-fixed paraffin-embedded samples	GSE298630_TPM.txt.gz
+GSE307698	5	RNA-seq of colorectal cancer patient-derived xenograft (PDX) tumors treated with FAP-CAR mRNA-LNP therapy	GSE307698_raw_count.txt.gz
+GSE116213	4	Transcriptomic data of parent and NAPE-PLD deteled Caco-2 cells	GSE116213_counts.txt.gz
+GSE121309	4	Single cell analysis reveals dynamics of transposable element expression following epigenetic de-repression	GSE121309_all_genic_counts.txt.gz
+GSE121553	4	Integrative genomic analyses revealed colorectal cancer susceptibility genes in risk loci identified in genome-wide association studies	GSE121553_GeneExpression.FPKM.AllSamples.txt.gz
+GSE129268	4	Effect of SMYD3 on MDA-MB-231 breast cancer cells (RNA-seq)	GSE129268_normalized_FPKM_matrix.txt.gz
+GSE132226	4	Genomic Signatures Reveal DNA Damage Response Deficiency in Brain Metastases of Colorectal Cancer	GSE132226_Normalized_read_counts.txt.gz
+GSE148347	4	High-throughput automated organoid culture via stem-cell aggregation in microcavity arrays	GSE148347_combined_htseqcounts_ENSG_withGeneInfos_norm.csv.gz
+GSE153642	4	CBFβ promotes colorectal tumor growth and metastasis in a RUNX2-dependent manner (RNA-seq)	GSE153642_Raw_gene_counts_matrix.txt.gz
+GSE156172	4	Combination of Sulindac and Bexarotene for Prevention of Intestinal Carcinogenesis in Familial Adenomatous Polyposis	GSE156172_FAP_SulBex.raw.read.counts.txt.gz
+GSE159352	4	EZH2 deficiency induced gene expression change in CRCs	GSE159352_EZH2_deficiency_induced_gene_expression_change_in_CRCs.FPKM.xls.gz
+GSE162753	4	Transcriptome  analysis of YTHDF2 kockdown(KD) and wildtype(WT) cells in Multiple Myeloma	GSE162753_genes.fpkm.xls.gz
+GSE173448	4	ORC1 binds to cis-transcribed RNAs for efficient activation of human origins [ORC1_FLAG_RIPseq]	GSE173448_Flag_Input.rnaseq.counts.txt.gz
+GSE173450	4	ORC1 binds to cis-transcribed RNAs for efficient activation of human origins [AntiGAA_RNAseq]	GSE173450_ASOknockdown.rnaseq.counts.txt.gz
+GSE184726	4	RNAseq analysis of DDX21-silenced colorectal cancer cell HCT8	GSE184726_all.fpkm.exp.txt.gz
+GSE192374	4	Transcriptome profiling of SW480 cells and cells derived from xenograft tumors from serial transplantation of SW480 cells by RNA-sequencing	GSE192374_gene_fpkm.txt.gz
+GSE216455	4	Synthetical lethality of Werner helicase and mismatch repair   deficiency is mediated by p53 and PUMA in colon cancer	GSE216455_gene_count.xls.gz
+GSE227707	4	The nucleoskeleton protein NuMA maintains local chromatin architecture partially through promoting linker histone H1’ binding to chromatin and nucleosome stacking [RNA-Seq]	GSE227707_RNA-seq_NuMA_control_count.txt.gz
+GSE236764	4	A novel TOX3-WDR5-ABCG2 signaling axis regulates the progression of colorectal cancer by accelerating stem-like traits and chemoresistance	GSE236764_gene_fpkm.txt.gz
+GSE241518	4	High-throughout sequencing of colorectal cancer and non-small cell lung cancer cells treated actived compound YHM18	GSE241518_1_genes_fpkm_expression.txt.gz
+GSE246781	4	Epigenetically Down-Regulated BRCA2 through Acetyltransferase KAT2B Increases the Sensitivity of Colorectal Cancer to Olaparib	GSE246781_counts.txt.gz
+GSE254833	4	Differential unfolded protein response regulation in KRAS silencing sensitive versus innately resistant colorectal cancer cells [LS174T]	GSE254833_LSDeseq2_counts.csv.gz
+GSE262144	4	C1Q + TPP1 + macrophages promote colon cancer progression through SETD8-driven p53 methylation.	GSE262144_rawcount.txt.gz
+GSE270613	4	Targeting CAFs-Mediated Stromal Signaling in a Patient-Derived Organotypic Colorectal Tumor Model	GSE270613_gene_expected_count.annot.txt.gz
+GSE274028	4	RNA m1A methyltransferase TRMT61A induces MAPK/ERK signaling and is a therapeutic target in colorectal cancer II	GSE274028_salmon_abundance_TPM.csv.gz
+GSE275190	4	A Novel Piperine Derivative Inhibits Colorectal Cancer Progression by Modulating EMT Signaling Pathways: An Integrated Transcriptomic and Machine Learning Analysis	GSE275190_gene_counts.xls.gz
+GSE275454	4	ID3 Enhances PD-L1 Expression by Restructuring MYC and  Promotes Colorectal Cancer Immune Evasion [RNA-seq]	GSE275454_RNA-seq_gene_fpkm.txt.gz
+GSE275553	4	A novel Nilotinib derivative N-12 inhibits the proliferation and migration of colon cancer cells through the EMT signaling pathway	GSE275553_N_12_gene_counts.csv.gz
+GSE280188	4	Neratinib derivative 7A induces apoptosis in colon cancer cells via the p53 pathway	GSE280188_gene_counts.xls.gz
+GSE284535	4	Genome-wide homeostatic regulation of R-loops by the dual RNA-DNA topoisomerase, topoisomerase III-β (TOP3B) II	GSE284535_HCT116_read_count.csv.gz
+GSE285503	4	Fibroblast-Derived Thrombospondin 2 Shapes the Immune-Exclusionary Environment at Invasive Fronts in Colorectal Cancer [RNA-seq_Human_CRC]	GSE285503_Tumor19202426_counts.csv.gz
+GSE294754	4	MiNK-215: Allogeneic FAP-CAR-IL15 iNKT therapy remodels tumor stroma to enhance anti-tumor immunity	GSE294754_raw_counts.txt.gz
+GSE349327	4	Metastasis-Related Transcriptional Profile in Colorectal Cancer	GSE349327_all-counts.csv.gz
+GSE90599	4	 Che-1 sustains hypoxic response of colorectal cancer cells by affecting Hif-1α stabilization	GSE90599_FPKM_table.tsv.gz
+GSE95605	4	SLC25A25-AS1 knockdown data of two colorectal carcinoma cell lines (HT29 and SW480)	GSE95605_SW480_genes.fpkm_tracking.gz
+GSE112590	3	Silencing of BEX2 promotes colorectal cancer metastasis through Hedgehog signaling pathway	GSE112590_gene_sample_FPKM.txt.gz
+GSE140455	3	Functional genomics of human colon organoids (RNA-Seq)	GSE140455_RNAseqreadcount.txt.gz
+GSE192489	3	Phosphorylation and stabilization of EZH2 by VprBP trigger aberrant gene silencing in colon cancer	GSE192489_shEZH2_normalized_counts.txt.txt.gz
+GSE215882	3	FGF19 induces the inflammatory phenotype of LX-2 cells	GSE215882_Genes_fpkm_expression.txt.gz
+GSE241025	3	TCF7L1 regulates colorectal cancer cell migration and invasion by repressing GAS1 expression (RNA-Seq)	GSE241025_readcount_allsamples.xls.gz
+GSE269456	3	CircRAPGEF5 acts as a modulator of RAS/RAF/MEK/ERK signaling during colorectal carcinogenesis	GSE269456_FPKM_anno.txt.gz
+GSE295155	3	Transcriptome profiling of HCT116 cells and differentiated HCT116 cells induced by forced expresssion of MYOD1 or PPARG using RNA-sequencing.	GSE295155_gene_fpkm.txt.gz
+GSE333210	3	ZEB1 K80R Suppresses the NF-κB/EMT Axis and Tumor Pro-inflammatory Gene Expression	GSE333210_gene_fpkm.txt.gz
+GSE122534	2	Knockdown IGF-1R triggers viral RNA sensors MDA5- and RIG-1-mediated the mitochondrial apoptosis in colonic cancer cells	GSE122534_All_Counts.xls.gz
+GSE141771	2	Next Generation Sequencing Analysis of control and knockdown of hnRNPU in RKO cells	GSE141771_All_FPKM.xls.gz
+GSE192372	2	Transcriptome profiling of HCT116 cells and HCT116 cells with knockdown of SETDB1 by RNA-sequencing	GSE192372_gene_fpkm.txt.gz
+GSE236701	2	Effect of knockdown of KAT7 on gene expression in HCT116 cell line.	GSE236701_gene_counts.txt.gz
+GSE300639	2	Next Generation Sequencing Analysis of control and siHNRNPM treated RKO cells Transcriptomes	GSE300639_All.counts.txt.gz

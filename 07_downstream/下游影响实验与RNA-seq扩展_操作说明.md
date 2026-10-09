@@ -1,6 +1,8 @@
 # 加分实验操作说明：下游影响（分类器泄漏 AUC 膨胀）与 RNA-seq 扩展
 
-> **【执行状态 · 2026-10-09】实验 A 已执行**，脚本 `downstream_leakage.py`，结果 `downstream_leakage_results.json`，图 `Fig7_leakage_auc.png`，并已在稿件 §3.9 / Table 4 / Fig7 报告。核心结果：GPL570 子集（9,892 样本 / 179 系列，2,102 正常 / 7,790 肿瘤）上，naive 随机 CV AUC≈0.945，study-isolated（按 GSE 分组）CV 跌至≈0.668–0.708，泄漏致 AUC 膨胀≈0.237；1,824 个冗余样本泄漏率 92.7%，但去除后 AUC 变动<0.01（说明膨胀主因是 study mixing 而非样本重复）。实验 B（RNA-seq 扩展）尚未执行，见下文 §B。
+> **【执行状态 · 2026-10-09】实验 A 已执行**，脚本 `downstream_leakage.py`，结果 `downstream_leakage_results.json`，图 `Fig7_leakage_auc.png`，并已在稿件 §3.9 / Table 4 / Fig7 报告。核心结果：GPL570 子集（9,892 样本 / 179 系列，2,102 正常 / 7,790 肿瘤）上，naive 随机 CV AUC≈0.945，study-isolated（按 GSE 分组）CV 跌至≈0.668–0.708，泄漏致 AUC 膨胀≈0.237；1,824 个冗余样本泄漏率 92.7%，但去除后 AUC 变动<0.01（说明膨胀主因是 study mixing 而非样本重复）。
+>
+> **【执行状态 · 2026-10-09】实验 B 已执行**，全流程脚本 `enum_rnaseq.py → download_rnaseq.py → convert_rnaseq.py → analyze_tier_rnaseq.py → make_fig8.py`，产出在 `08_rnaseq_extension/`，已在稿件 §2.9 / §3.10 / Table 5 / Fig8 报告。核心结果：1,719 枚举 → 464 系列解析成功（10,321 样本）→ 命名空间感知检测（ENSG/SYMBOL/OTHER 分组 + 多数基因空间 + 覆盖率过滤 + 日志表头/注释列防御）→ 363 系列/5,916 样本，42→6 重复边，冗余率 0.07%；实际实现与本文件原方案的关键差异：NCBI 统一 counts 仅能经 bot 保护端点获取、不可程序化批量下载，故改用提交者矩阵（与 microarray 臂同为 as-deposited 条件）；探针交集过滤在 RNA-seq 中因 ID 命名空间异质性失效，改为命名空间分组 + 多数基因空间 + 覆盖率过滤。
 
 > 本文件是**操作说明**，供你决定是否纳入论文。两步实验均为「可选加分项」：
 > - 实验 A 直接呼应稿件 §2.8 / §4.3 局限⑤，可发展为独立的「下游影响」Results 小节；
