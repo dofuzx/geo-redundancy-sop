@@ -1,1 +1,17 @@
+# v1.0.0 - First stable release
+
+## Overview
+v1.0.0 is the initial stable version for this research analysis pipeline.
+## ✨ Features
+- manuscript_figs
+-final_reports
+- downstream
+- research_Main_Line
+-README
+
+
+## ⚠️ Notes
+- For research use only. Not for clinical application.
+- If you find bugs or have suggestions, please submit an Issue.
+- Further optimization will be carried out in subsequent versions.
 
