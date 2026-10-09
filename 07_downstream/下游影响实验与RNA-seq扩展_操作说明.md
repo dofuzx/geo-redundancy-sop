@@ -1,5 +1,7 @@
 # 加分实验操作说明：下游影响（分类器泄漏 AUC 膨胀）与 RNA-seq 扩展
 
+> **【执行状态 · 2026-10-09】实验 A 已执行**，脚本 `downstream_leakage.py`，结果 `downstream_leakage_results.json`，图 `Fig7_leakage_auc.png`，并已在稿件 §3.9 / Table 4 / Fig7 报告。核心结果：GPL570 子集（9,892 样本 / 179 系列，2,102 正常 / 7,790 肿瘤）上，naive 随机 CV AUC≈0.945，study-isolated（按 GSE 分组）CV 跌至≈0.668–0.708，泄漏致 AUC 膨胀≈0.237；1,824 个冗余样本泄漏率 92.7%，但去除后 AUC 变动<0.01（说明膨胀主因是 study mixing 而非样本重复）。实验 B（RNA-seq 扩展）尚未执行，见下文 §B。
+
 > 本文件是**操作说明**，供你决定是否纳入论文。两步实验均为「可选加分项」：
 > - 实验 A 直接呼应稿件 §2.8 / §4.3 局限⑤，可发展为独立的「下游影响」Results 小节；
 > - 实验 B 呼应稿件 §2.1 末段与 §4.3 局限④，把结论从 microarray 推广到 RNA-seq。

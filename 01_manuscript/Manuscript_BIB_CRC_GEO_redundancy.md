@@ -22,7 +22,7 @@ Bai Jing^1,‡^, Yu Yonggang^2,†^, Liu Fei^3^, Chen Shengqiang^4^, Liu Guoqian
 
 **Results.** We assembled a four-tier colorectal cancer (CRC) corpus of **319 GEO series comprising 25,460 samples** and executed the pipeline end-to-end. The probe-integrity filter excluded 16 series (8 with no usable expression matrix; 8 with <90% probe coverage). At the absolute threshold r ≥ 0.97, 34,497 cross-series sample-pairs were flagged, but the baseline-aware gate retained only **2,956 (91.4% reduction)**, eliminating platform-level pseudocorrelation (e.g., GSE29621 ↔ GSE17536: 2,825 → 66 pairs) while fully preserving the verified re-accession pair GSE41258 ↔ GSE68468 (154/381 and 141/147 samples reciprocally best-match ≥ 0.95; peak r = 0.981). The pipeline further surfaced an exact evidence chain of concealed re-accessioning — the Juntendo cohort GSE18105 → GSE22598 → GSE32323, in which the same 34 arrays (r = 1.000) were published three times and the third submission assigned entirely new GSM identifiers, defeating exact-identifier checks. The final corpus redundancy rate is **8.52% (2,169 of 25,460 samples)**, organised into 1,527 duplicate groups; 1,238 pairs are near-identical (r ≥ 0.9999) and 52 series-pairs are flagged as face-swap candidates for semantic review.
 
-**Conclusions.** Roughly one in twelve CRC transcriptomic samples in a field-level corpus is redundant with a sample in another series, and the great majority of naive correlation flags are platform-level pseudocorrelation rather than true duplication — a distinction that correlation-only workflows cannot make. A mandatory, baseline-aware de-duplication SOP before cross-study integration is therefore required. We release the detection tool, the reproducible pipeline, the deduplicated sample lists, and a reporting checklist to operationalise this.
+**Conclusions.** Roughly one in twelve CRC transcriptomic samples in a field-level corpus is redundant with a sample in another series, and the great majority of naive correlation flags are platform-level pseudocorrelation rather than true duplication — a distinction that correlation-only workflows cannot make. A mandatory, baseline-aware de-duplication SOP before cross-study integration is therefore required. A downstream classifier experiment shows that naive (random) cross-validation overestimates a tumour/normal classifier's AUC by ≈0.24 because it permits study- and sample-level leakage, whereas study-isolated validation exposes the true performance — reinforcing that de-duplication and leakage-aware evaluation are both prerequisites for trustworthy cross-study integration. We release the detection tool, the reproducible pipeline, the deduplicated sample lists, and a reporting checklist to operationalise this.
 
 **Keywords:** GEO; sample redundancy; meta-analysis; colorectal cancer; transcriptomics; data quality; duplication detection; face-swapping; pseudocorrelation.
 
@@ -85,7 +85,7 @@ Detected redundancy is classified into five types (Table 2): *exact copies* (bat
 
 ### 2.8 Downstream impact assessment (framework)
 
-The released framework additionally defines two impact experiments — differential-expression stability with versus without duplicated samples, and classifier leakage across train/test partitions — to quantify the *consequence* of undetected redundancy. The present manuscript reports the detection and quantification results; the impact module is distributed with the pipeline for reuse.
+The released framework additionally defines two impact experiments — differential-expression stability with versus without duplicated samples, and classifier leakage across train/test partitions — to quantify the *consequence* of undetected redundancy. The classifier-leakage arm is executed and reported in §3.9; the differential-expression stability arm remains defined and distributed with the pipeline.
 
 ### 2.9 Implementation and availability
 
@@ -150,6 +150,30 @@ The 8.52% rate means that roughly **one in twelve** CRC transcriptomic samples i
 
 The fingerprint pre-screen reduces the O(n²) pairwise burden to a small candidate set confirmed by exact correlation, making the method tractable for hundreds of series on a single workstation (the 319-series, 25,460-sample scan completes in under two hours with < 5 GB RAM, including the 246-series GPL570 group). Threshold sweeps (correlation 0.95–0.99; baseline percentile 99–99.9; metadata Jaccard 0.4–0.6) are exposed for sensitivity analysis; the ground-truth validation (3.1) and the positive control (3.5) jointly indicate high recall with no observed false-positive deletion.
 
+### 3.9 Downstream impact: study- and sample-level leakage inflate classifier AUC
+
+To quantify the *consequence* of undetected redundancy and study mixing, we trained a tumour-vs-normal classifier (logistic regression on the 1,000 most-variable probes of the GPL570 majority gene space; features z-scored) on the labelled subset of the corpus (n = 9,892 samples across 179 series; 2,102 normal / 7,790 tumour) and evaluated it under four conditions that differ only in how leakage is permitted:
+
+- **RAW + random split** — all labelled samples, 10-fold stratified CV (leakage permitted);
+- **RAW + series-grouped split** — GroupShuffleSplit by GSE, so no series appears on both sides (study-level leakage removed);
+- **CLEAN + random split** — the 1,824 samples recommended for removal (§3.7) excluded, random CV;
+- **CLEAN + series-grouped split** — deduplicated set, study-isolated CV (cleanest).
+
+The naive random CV reports an AUC of **0.945 (RAW)** / **0.948 (CLEAN)**, but once series are isolated (grouped CV) the same classifier falls to **0.708 (CLEAN)** / **0.668 (RAW)** (Table 4, Figure 7). The gap of **≈0.24 AUC** is inflation produced by leakage: under random splitting, samples from the same study — which share batch, protocol, and often the same patients — land on both sides of the fold boundary, letting the model exploit study identity rather than biology.
+
+The redundancy-specific component is smaller but real. Of the 1,824 flagged duplicate samples, **92.7%** would, under a random 10-fold partition, have a duplicate partner assigned to the training set while the sample itself is in test — a textbook data-leakage configuration. Yet removing these duplicates changes the AUC by < 0.01 (< 1 SD) under either split scheme (Table 4), because in a regularised linear model a handful of exact replicates neither memorises nor materially distorts the decision boundary. The practical implication is twofold: (i) the dominant CV inflation in this corpus comes from *study mixing*, not sample duplication, so a grouped (study-isolated) CV is the minimum bar for honest evaluation; and (ii) the 8.52% sample redundancy, while it must be removed before meta-analysis for the reasons in §3.4–3.6, is not by itself the main source of inflated performance — which is precisely why de-duplication alone is necessary but not sufficient for trustworthy cross-study integration.
+
+**Table 4. Classifier AUC under four leakage conditions (GPL570 tumour vs normal).**
+
+| Condition | Samples | Split | AUC (mean ± SD) |
+|---|---|---|---|
+| RAW | 9,892 | random (leakage permitted) | 0.945 ± 0.008 |
+| RAW | 9,892 | series-grouped (study-isolated) | 0.668 ± 0.159 |
+| CLEAN | 8,064 | random | 0.948 ± 0.010 |
+| CLEAN | 8,064 | series-grouped | 0.708 ± 0.101 |
+| Flagged duplicate samples in labelled set | 1,824 | — | leakage rate 92.7% |
+| Maximum inflation (RAW random − CLEAN grouped) | — | — | ΔAUC = 0.237 |
+
 ---
 
 ## 4. Discussion
@@ -164,7 +188,7 @@ DupChecker [6] remains the reference for raw-data MD5 fingerprinting, demonstrat
 
 ### 4.3 Limitations
 
-Several caveats are explicit. First, correlation-based Layer C requires aligning features across series; the probe-space integrity filter (2.5) protects the common space but cross-platform pairs remain out of scope. Second, the duplication thresholds are heuristic; the baseline-aware gate and semantic review mitigate this, and the calibration against a verified positive control is reported, but borderline calls remain judgement-dependent. Third, legitimate biological replication must not be confused with redundancy; the AI semantic review and the typology (Table 2) are the primary safeguards against over-deletion, and 33 single-platform series without a comparable partner were retained but not testable. Fourth, the present corpus is microarray-based; the RNA-seq extension via NCBI-computed counts [2] is enabled by the same pipeline but not yet executed at this scale. Fifth, the downstream impact experiments (2.8) are defined and distributed but not reported here.
+Several caveats are explicit. First, correlation-based Layer C requires aligning features across series; the probe-space integrity filter (2.5) protects the common space but cross-platform pairs remain out of scope. Second, the duplication thresholds are heuristic; the baseline-aware gate and semantic review mitigate this, and the calibration against a verified positive control is reported, but borderline calls remain judgement-dependent. Third, legitimate biological replication must not be confused with redundancy; the AI semantic review and the typology (Table 2) are the primary safeguards against over-deletion, and 33 single-platform series without a comparable partner were retained but not testable. Fourth, the present corpus is microarray-based; the RNA-seq extension via NCBI-computed counts [2] is enabled by the same pipeline but not yet executed at this scale. Fifth, the classifier-leakage impact experiment (2.8) is now reported in §3.9, demonstrating that study- and sample-level leakage inflates AUC by ≈0.24; the differential-expression stability arm remains defined but not executed.
 
 ### 4.4 Recommendations and community implications
 
@@ -266,3 +290,7 @@ Cross-GSE sample redundancy and “face-swapping” are real, measurable, and sy
 ![Figure 6](manuscript_figs/Fig6_probe_integrity.png)
 
 **Figure 6.** Probe-space integrity filter. (a) Motivating case: GSE20916 carries 27,697 of the GPL570 platform’s 54,675 probes; merging it into the group would halve the common comparison space and suppress 88% of detectable duplicate pairs. (b) The filter excluded 16 series in the final corpus — 8 with no usable expression matrix and 8 with probe ratios below 0.9.
+
+![Figure 7](manuscript_figs/Fig7_leakage_auc.png)
+
+**Figure 7.** Downstream impact (Experiment A). Cross-validated tumour/normal AUC on the GPL570 subset under four leakage conditions (Table 4): naive random CV (red) reports ≈0.95, but study-isolated (grouped) CV (green) collapses to ≈0.67–0.71, exposing ≈0.24 AUC of inflation from study- and sample-level leakage. Removing the 1,824 flagged duplicate samples (CLEAN) changes AUC by < 0.01.

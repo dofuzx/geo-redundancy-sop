@@ -14,7 +14,7 @@ paper/
 │   ├── Manuscript_BIB_CRC_GEO_redundancy.docx   （v3，已嵌入 6 图，可直接投稿编辑）
 │   ├── Manuscript_BIB_CRC_GEO_redundancy.md     （源文件，改后可由 build_docx.py 重建）
 │   ├── CRC_GEO_redundancy_plan.md               （研究方案 v1.0，立题与大纲出处）
-│   └── manuscript_figs/Fig1–Fig6 *.png          （300 dpi 出版级图表）
+│   └── manuscript_figs/Fig1–Fig7 *.png          （300 dpi 出版级图表；Fig7=下游泄漏AUC）
 ├── 02_final_reports/                ← 最终检测结果（权威数据源）
 │   ├── dedup_report.md                          （人类可读报告：基线感知 TOP20、阳性对照、变脸候选）
 │   ├── dedup_report.json                        （pair 级全量证据 2.9MB）
@@ -56,5 +56,5 @@ paper/
 
 1. ✅ **合作者署名与 Funding 已补齐**：稿件首页作者顺序 Bai Jing（共一作，‡）、Yu Yonggang（共一作，†）、Liu Fei、Chen Shengqiang、Liu Guoqiang、Zexian Fu（通讯，*，†）；5 个机构标注；Funding 段已写入河北省医学科研 project No. 20260723 与河北省教育厅科研 project No. ZD2022039。docx 已同步重建。
 2. ⏳ `geo-redundancy-sop` GitHub 仓库：本地仓库已 `init` 并提交（30 文件）；按 `06_github_upload/GitHub_上传操作指南.md` 建空仓库并 `git push` 后，把稿件两处占位 `https://github.com/[your-GitHub-username]/geo-redundancy-sop` 替换为真实地址再推一次。
-3. （可选加分）下游影响实验：分类器泄漏 AUC 膨胀 / DE 稳定性 —— 见 `07_downstream/` 操作说明，由你决定是否加入。
-4. （可选）RNA-seq 扩展：NCBI 统一 counts 复跑同一管线 —— 见 `07_downstream/` 操作说明。
+3. ✅ **下游影响实验 A 已执行并写入稿件**：tumour/normal 分类器在 GPL570 子集（9,892 样本 / 179 系列）上，naive 随机 CV AUC≈0.945，而 study-isolated（按 GSE 分组）CV 跌至≈0.668–0.708，泄漏致 AUC 膨胀≈0.24；1,824 个冗余样本泄漏率 92.7% 但去除后 AUC 变动<0.01。已入稿件 §3.9、Table 4、Fig7。DE 稳定性分支未执行。
+4. （可选）RNA-seq 扩展：NCBI 统一 counts 复跑同一管线 —— 见 `07_downstream/` 操作说明（实验 B 待执行）。

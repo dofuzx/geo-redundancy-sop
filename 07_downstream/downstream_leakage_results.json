@@ -1,0 +1,22 @@
+{
+  "platform_subset": "GPL570",
+  "n_labeled_raw": 9892,
+  "n_labeled_clean": 8064,
+  "n_series_used": 179,
+  "class_counts_raw": {
+    "0": 2102,
+    "1": 7790
+  },
+  "top_genes_K": 1000,
+  "AUC_RAW_random_mean": 0.9447685361826714,
+  "AUC_RAW_random_std": 0.007753365184937973,
+  "AUC_RAW_group_mean": 0.66784950443784,
+  "AUC_RAW_group_std": 0.15919150204137114,
+  "AUC_CLEAN_random_mean": 0.9483310239618948,
+  "AUC_CLEAN_random_std": 0.010411417460325685,
+  "AUC_CLEAN_group_mean": 0.7083435443983352,
+  "AUC_CLEAN_group_std": 0.10083436089406549,
+  "delta_AUC_raw_random_minus_clean_group": 0.23642499178433618,
+  "n_redundant_labeled": 1824,
+  "leakage_rate_redundant_samples": 0.9268859649122807
+}
