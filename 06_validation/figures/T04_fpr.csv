@@ -1,0 +1,6 @@
+pair,cross_max,recall_at_gate,false_positive
+GSE106325↔GSE59196,0.3358,0.0,no
+GSE20916↔GSE71571,0.821,0.0,no
+GSE5816↔GSE23878,0.5416,0.0,no
+GSE41326↔GSE11440,0.4761,0.0,no
+FPR,,,0.000

@@ -1,0 +1,320 @@
+gse,platform,tier,detection_status,n_samples,n_samples_removed
+GSE106582,GPL10558,Tier 3 (disease-focused),cross-series compared (GPL10558 group),194,0
+GSE10714,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),33,0
+GSE110223,GPL96,Tier 3 (disease-focused),cross-series compared (GPL96 group),26,0
+GSE113513,GPL15207,Tier 3 (disease-focused),"inventoried, single-platform (no comparable partner)",28,0
+GSE12251,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),23,0
+GSE12945,GPL96,Tier 3 (disease-focused),cross-series compared (GPL96 group),62,0
+GSE132465,GPL20301,Tier 3 (disease-focused),excluded by probe-space integrity filter,33,0
+GSE13367,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),56,0
+GSE142279,GPL20795,Tier 3 (disease-focused),excluded by probe-space integrity filter,40,0
+GSE14580,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),30,1
+GSE156451,GPL24676,Tier 3 (disease-focused),"inventoried, single-platform (no comparable partner)",144,0
+GSE158559,GPL20301,Tier 3 (disease-focused),excluded by probe-space integrity filter,53,0
+GSE15960,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),18,0
+GSE161277,GPL20795,Tier 3 (disease-focused),excluded by probe-space integrity filter,13,0
+GSE166555,GPL23177,Tier 3 (disease-focused),"inventoried, single-platform (no comparable partner)",25,0
+GSE16879,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),133,33
+GSE17537,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),55,31
+GSE18105,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),111,4
+GSE20842,GPL4133,Tier 3 (disease-focused),cross-series compared (GPL4133 group),130,0
+GSE214695,GPL18573,Tier 3 (disease-focused),excluded by probe-space integrity filter,18,0
+GSE21510,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),148,99
+GSE22598,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),38,34
+GSE22619,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),20,0
+GSE231993,GPL18573,Tier 3 (disease-focused),excluded by probe-space integrity filter,12,0
+GSE235919,GPL18573,Tier 3 (disease-focused),excluded by probe-space integrity filter,34,0
+GSE23878,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),59,0
+GSE24514,GPL96,Tier 3 (disease-focused),cross-series compared (GPL96 group),49,0
+GSE27854,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),115,104
+GSE29621,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),65,63
+GSE32323,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),44,34
+GSE35144,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),64,0
+GSE35896,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),62,0
+GSE36807,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),35,0
+GSE37178,GPL6947,Tier 3 (disease-focused),"inventoried, single-platform (no comparable partner)",84,0
+GSE39084,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),70,0
+GSE4107,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),22,0
+GSE41328,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),20,0
+GSE4183,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),53,0
+GSE44861,GPL3921,Tier 3 (disease-focused),"inventoried, single-platform (no comparable partner)",111,0
+GSE47908,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),60,0
+GSE48634,GPL10558,Tier 3 (disease-focused),excluded by probe-space integrity filter,171,0
+GSE50114,GPL6480,Tier 3 (disease-focused),excluded by probe-space integrity filter,46,0
+GSE50115,GPL6480,Tier 3 (disease-focused),excluded by probe-space integrity filter,46,0
+GSE50760,GPL11154,Tier 3 (disease-focused),"inventoried, single-platform (no comparable partner)",54,0
+GSE83889,GPL10558,Tier 3 (disease-focused),cross-series compared (GPL10558 group),136,0
+GSE8671,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),64,0
+GSE87211,GPL13497,Tier 3 (disease-focused),"inventoried, single-platform (no comparable partner)",363,0
+GSE90627,GPL17077,Tier 3 (disease-focused),"inventoried, single-platform (no comparable partner)",128,0
+GSE9254,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),19,0
+GSE9348,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),82,0
+GSE9452,GPL570,Tier 3 (disease-focused),cross-series compared (GPL570 group),26,0
+GSE95132,GPL16791,Tier 3 (disease-focused),"inventoried, single-platform (no comparable partner)",31,0
+GSE10021,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),16,0
+GSE101896,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),190,0
+GSE102079,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),257,6
+GSE106325,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE10650,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE106808,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,1
+GSE10715,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),30,0
+GSE10867,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),20,0
+GSE10961,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),18,0
+GSE112282,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),48,0
+GSE112790,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),198,166
+GSE1141,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),6,0
+GSE11440,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,1
+GSE11499,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),11,0
+GSE11618,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),18,0
+GSE116528,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE117548,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),25,0
+GSE11812,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),30,0
+GSE11831,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),17,0
+GSE11940,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),10,1
+GSE119409,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),66,0
+GSE11941,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),8,0
+GSE11942,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),18,18
+GSE12034,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE124069,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),30,0
+GSE124347,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),42,0
+GSE13059,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),30,0
+GSE13067,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),74,0
+GSE130750,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE131027,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),92,0
+GSE1323,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),6,0
+GSE132542,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),29,0
+GSE13294,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),155,0
+GSE13548,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),42,0
+GSE13568,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE137306,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE13759,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),6,0
+GSE14095,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),189,8
+GSE14103,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE14333,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),290,64
+GSE143985,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),91,3
+GSE1474,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),24,0
+GSE14773,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),8,0
+GSE15132,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),18,0
+GSE152529,GPL570,Tier 4 (field-level),excluded by probe-space integrity filter,237,0
+GSE15322,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE15395,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),74,0
+GSE15568,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),29,0
+GSE15799,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE16066,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE16070,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE16080,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE16082,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE16085,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE16089,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE161158,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),250,6
+GSE161533,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),84,0
+GSE16157,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),38,0
+GSE164191,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),121,0
+GSE16555,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE16648,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),42,42
+GSE16934,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE170999,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),76,0
+GSE17189,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),17,1
+GSE17372,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),17,17
+GSE18005,GPL96,Tier 4 (field-level),excluded by probe-space integrity filter,15,0
+GSE18088,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),53,0
+GSE18232,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),18,0
+GSE18462,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),8,0
+GSE18497,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),82,0
+GSE18549,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),96,0
+GSE18560,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE18625,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),7,0
+GSE186582,GPL570,Tier 4 (field-level),excluded by probe-space integrity filter,489,0
+GSE18674,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),24,0
+GSE19072,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE1935,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),24,0
+GSE19860,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),40,11
+GSE19862,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),14,0
+GSE19963,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE199871,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),27,0
+GSE201899,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE203024,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),2845,0
+GSE2109,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),2158,0
+GSE212849,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),84,0
+GSE21654,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),22,0
+GSE217758,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE21826,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE22061,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),8,0
+GSE22106,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE23194,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),17,0
+GSE232209,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE23554,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),28,0
+GSE23597,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),113,24
+GSE2361,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),36,0
+GSE23630,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),18,0
+GSE236924,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),132,0
+GSE23882,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE2397,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),24,0
+GSE245371,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE24547,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),20,0
+GSE2461,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),8,0
+GSE24747,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),6,0
+GSE24795,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),30,0
+GSE2509,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),6,0
+GSE26027,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE26906,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),90,0
+GSE27157,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),10,0
+GSE2719,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),54,0
+GSE2742,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),27,0
+GSE28702,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),83,0
+GSE28792,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),15,0
+GSE29008,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),20,0
+GSE29060,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE29316,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE294689,GPL570,Tier 4 (field-level),excluded by probe-space integrity filter,36,0
+GSE294953,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),28,0
+GSE30292,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),43,0
+GSE30540,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),35,0
+GSE30803,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),33,0
+GSE31084,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),8,0
+GSE3113,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),15,0
+GSE31255,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),11,0
+GSE31595,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),37,0
+GSE32474,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),174,0
+GSE33112,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,1
+GSE33114,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),108,108
+GSE33143,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE33420,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),8,3
+GSE33846,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),32,22
+GSE34053,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE34489,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),33,0
+GSE3526,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),353,0
+GSE35382,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE35452,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),46,0
+GSE35478,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),15,0
+GSE35566,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),19,0
+GSE35603,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),78,0
+GSE35973,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),8,0
+GSE3629,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),121,0
+GSE36701,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),221,0
+GSE3726,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),104,0
+GSE37267,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE37964,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),44,0
+GSE38713,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),43,0
+GSE38833,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE39144,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),77,22
+GSE3926,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),12,4
+GSE39395,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),24,0
+GSE39577,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),32,0
+GSE39904,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),16,1
+GSE39907,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),36,16
+GSE39923,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),101,4
+GSE39999,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE40220,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE40367,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),61,0
+GSE4045,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),37,0
+GSE40928,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),28,0
+GSE41326,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE41364,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE41445,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),63,0
+GSE43580,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),150,0
+GSE44029,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE44097,GPL570,Tier 4 (field-level),excluded by probe-space integrity filter,12,0
+GSE4459,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),89,89
+GSE4526,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),36,0
+GSE45270,GPL570,Tier 4 (field-level),excluded by probe-space integrity filter,13,0
+GSE4554,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),84,84
+GSE46517,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),121,0
+GSE48433,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),823,0
+GSE48998,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE49353,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),29,0
+GSE49536,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE50040,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),18,0
+GSE50659,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE50831,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),189,18
+GSE50832,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),598,189
+GSE5206,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),105,76
+GSE52735,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),37,0
+GSE53059,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE53091,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),125,0
+GSE5364,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),341,0
+GSE54483,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),11,0
+GSE5486,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),8,0
+GSE55624,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),18,0
+GSE55810,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),10,0
+GSE56896,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE57083,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),627,2
+GSE58049,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE58058,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE5816,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),42,0
+GSE5846,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),60,0
+GSE58750,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE58751,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE59196,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),24,0
+GSE60697,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),20,0
+GSE62080,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),21,0
+GSE62253,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE6272,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),36,0
+GSE6274,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),6,0
+GSE62932,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),68,0
+GSE63252,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),27,0
+GSE63626,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),63,6
+GSE64256,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),125,76
+GSE64385,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE64857,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),81,0
+GSE6518,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE65222,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE6695,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),7,7
+GSE66983,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),8,0
+GSE67338,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE67342,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE69639,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),54,0
+GSE69657,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),30,0
+GSE70540,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE70915,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE70976,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),10,0
+GSE71222,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),152,141
+GSE71571,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),176,0
+GSE7161,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE7208,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),59,0
+GSE72968,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),68,3
+GSE72969,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),56,0
+GSE72970,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),124,124
+GSE7307,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),677,0
+GSE73906,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),36,0
+GSE74265,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),30,0
+GSE74492,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE75316,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),59,0
+GSE76210,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE7678,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),8,0
+GSE77474,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),9,0
+GSE77953,GPL96,Tier 4 (field-level),cross-series compared (GPL96 group),58,0
+GSE78806,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),661,0
+GSE80320,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),17,0
+GSE82198,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE84597,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE85043,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),29,0
+GSE8565,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),17,0
+GSE8742,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),10,0
+GSE8896,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),12,0
+GSE92335,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE92921,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),59,59
+GSE94154,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),6,0
+GSE97781,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),15,0
+GSE97985,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),17,0
+GSE99213,GPL570,Tier 4 (field-level),cross-series compared (GPL570 group),16,6
+GSE17536,GPL570,Tier 1-2 (pilot),cross-series compared (GPL570 group),177,174
+GSE17538_GPL1261,GPL1261,Tier 1-2 (pilot),"inventoried, single-platform (no comparable partner)",6,0
+GSE33113,GPL570,Tier 1-2 (pilot),cross-series compared (GPL570 group),96,2
+GSE37364,GPL570,Tier 1-2 (pilot),cross-series compared (GPL570 group),94,0
+GSE37892,GPL570,Tier 1-2 (pilot),cross-series compared (GPL570 group),130,49
+GSE38832,GPL570,Tier 1-2 (pilot),cross-series compared (GPL570 group),122,0
+GSE39582,GPL570,Tier 1-2 (pilot),cross-series compared (GPL570 group),585,61
+GSE41258,GPL96,Tier 1-2 (pilot),cross-series compared (GPL96 group),390,0
+GSE41657,GPL6480,Tier 1-2 (pilot),"inventoried, single-platform (no comparable partner)",88,0
+GSE44076,GPL13667,Tier 1-2 (pilot),"inventoried, single-platform (no comparable partner)",246,0
+GSE68468,GPL96,Tier 1-2 (pilot),cross-series compared (GPL96 group),390,23
+GSE110224,GPL570,Tier 1-2 (pilot),cross-series compared (GPL570 group),34,0
+GSE115261,GPL23126,Tier 1-2 (pilot),"inventoried, single-platform (no comparable partner)",20,0
+GSE14297,GPL6370,Tier 1-2 (pilot),"inventoried, single-platform (no comparable partner)",48,0
+GSE18392,GPL8178,Tier 1-2 (pilot),"inventoried, single-platform (no comparable partner)",145,0
+GSE35982_GPL14767,GPL14767,Tier 1-2 (pilot),"inventoried, single-platform (no comparable partner)",16,0
+GSE35982_GPL4133,GPL4133,Tier 1-2 (pilot),cross-series compared (GPL4133 group),16,0
+GSE41568,GPL570,Tier 1-2 (pilot),cross-series compared (GPL570 group),133,27
+GSE41655,GPL11487,Tier 1-2 (pilot),"inventoried, single-platform (no comparable partner)",107,0
+GSE49355,GPL96,Tier 1-2 (pilot),cross-series compared (GPL96 group),57,0

@@ -1,0 +1,2 @@
+pair,naive_pairs_ge_floor,gated_pairs,gate_threshold,reduction_pct,manuscript
+GSE29621 x GSE17536,885,25,0.9867,97.2,2825 -> 66 (97.7%)

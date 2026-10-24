@@ -1,0 +1,3 @@
+pair,nA,nB,common_genes,peak_r_this_study,peak_r_manuscript,gate_threshold,gated_reciprocal_pairs,reproduces_manuscript
+GSE41258 x GSE68468,390,390,22283,0.982,0.981,0.9749,26,YES (|diff|<0.005)
+GSE12251 x GSE23597,23,113,54675,1.0,1.0,0.9874,2,YES (|diff|<0.005)

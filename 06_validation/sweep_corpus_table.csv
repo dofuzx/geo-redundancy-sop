@@ -1,0 +1,6 @@
+correlation_threshold,gated_pairs,retained_samples,redundancy_rate_pct
+0.95,2966,2180,8.56
+0.96,2966,2180,8.56
+0.97,2954,2168,8.52
+0.98,2910,2131,8.37
+0.99,2801,2043,8.02

@@ -1,0 +1,10 @@
+section,pair,nA,nB,common_genes,baseline_A,baseline_B,threshold,cross_max_peak_r,naive_pairs_above_floor,gated_pairs,recall_at_T
+link_recovery,GSE41258<->GSE68468,390,390,22283,0.9715,0.9749,0.9749,0.982,51,26,0.0667
+link_recovery,GSE12251<->GSE23597,23,113,54675,0.9806,0.9874,0.9874,1.0,258,23,1.0
+specificity,GSE29621<->GSE17536,65,177,54675,0.9867,0.9842,0.9867,0.9991,2851,63,0.9692
+fpr_negative,,,,,,,,,,,
+fpr_negative,GSE106325<->GSE59196,,,,,,,0.3358,,,0.0
+fpr_negative,GSE20916<->GSE71571,,,,,,,0.821,,,0.0
+fpr_negative,GSE5816<->GSE23878,,,,,,,0.5436,,,0.0
+fpr_negative,GSE41326<->GSE11440,,,,,,,0.4761,,,0.0
+FPR,,,,,,,,,,,0.0
